@@ -1,0 +1,45 @@
+function startTime()
+{
+var today=new Date();
+var h=today.getHours();
+var m=today.getMinutes();
+var s=today.getSeconds();
+// add a zero in front of numbers<10
+m=checkTime(m);
+s=checkTime(s);
+document.getElementById('txt').innerHTML=h+":"+m+":"+s;
+t=setTimeout(function(){startTime()},500);
+}
+
+function checkTime(i)
+{
+if (i<10)
+  {
+  i="0" + i;
+  }
+return i;
+}
+
+function validateFormSubmit()
+{
+
+	var Name=document.forms["validationForm"]["fname"].value;
+	var email=document.forms["validationForm"]["email"].value;
+
+	if (Name==null || Name=="")
+	{
+		alert("First name must be filled out");
+		return false;
+	}
+	//email pattern!!!!
+	var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
+	if (!(emailPattern.test(email)))
+	{
+		alert("Please Enter a valid email.");
+		return false;
+	}
+	
+}
+
+
+

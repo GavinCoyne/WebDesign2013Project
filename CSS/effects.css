@@ -1,0 +1,65 @@
+/*
+Gavin Coyne
+Effects and Design CSS
+*/
+body {
+	border:1px solid black;
+	background-color:white;
+	
+	-moz-box-shadow: 10px 10px 5px hsl(0, 45%, 34%);
+	-webkit-box-shadow: 10px 10px 5px hsl(0, 45%, 34%));
+	box-shadow: 10px 10px 5px hsl(0, 45%, 34%);
+	
+	-moz-box-shadow: 10px 10px 5px rgb(126, 48, 48);
+	-webkit-box-shadow: 10px 10px 5px rgb(126, 48, 48);
+	box-shadow: 10px 10px 5px rgb(126, 48, 48));
+	
+	-moz-box-shadow: 10px 10px 5px hsl(0, 45%, 34%);
+	-webkit-box-shadow: 10px 10px 5px hsl(0, 45%, 34%);
+	box-shadow: 10px 10px 20px hsl(0, 1%, 9%);
+	
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+}
+
+header, h1{
+	-webkit-border-top-left-radius: 20px;
+	-webkit-border-top-right-radius: 20px;
+	-moz-border-radius-topleft: 20px;
+	-moz-border-radius-topright: 20px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+
+}
+
+h1.header {
+	word-spacing:7px;
+	letter-spacing:3px;
+}
+
+section.content article - article.img{
+	
+	border:1px solid black;
+	border-radius:20px;
+	overflow:hidden;
+	
+}
+
+div.scrollDiv {
+	overflow:auto;
+}
+
+footer {
+	-webkit-border-bottom-right-radius: 20px;
+	-webkit-border-bottom-left-radius: 20px;
+	-moz-border-radius-bottomright: 20px;
+	-moz-border-radius-bottomleft: 20px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	text-align:center;
+}
+
+input.required:focus:valid {
+	background-color:hsla(114, 88%, 66%,0.6);
+}
