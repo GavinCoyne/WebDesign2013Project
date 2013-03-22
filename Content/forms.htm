@@ -1,6 +1,6 @@
 <!Doctype html>
-<html>
-	<head ng-app>
+<html ng-app>
+	<head>
 		
 		
 		<link href="../CSS/nav.css" type="text/css" rel="stylesheet" /> 
@@ -12,6 +12,7 @@
 		<script src="../scripts/modernizr-1.5.js" ></script>
 		<script src="http://code.jquery.com/jquery-1.9.1.min.js" ></script>
         <script src="http://code.angularjs.org/angular-1.0.0rc3.min.js"></script>
+        <script src="http://code.angularjs.org/1.0.5/angular.min.js"></script>
 		<script src="../scripts/form.js"></script>
 		
 		<meta name="description" content="Kamloops Scrap Iron">
@@ -79,7 +80,9 @@
 		<fieldset id="addInfo"	name="addInfo"	>
 		<legend>Additional Information:</legend>
 			<form name="addForm" id="addForm" action="" onsubmit="return validateFormSubmit()" method="POST" >
-				
+                <label for="master">Select All:</label><input id="master" type="checkbox" ng-model="master"><br/>
+                <input id="checkSlave" type="checkbox" ng-model="master"><br/>
+
 			</form>
 		</fieldset>
 				</section>
