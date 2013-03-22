@@ -39,7 +39,7 @@ h1.header {
 	letter-spacing:3px;
 }
 
-section.content article {
+section.content article, -article.img {
 	
 	border:1px solid black;
 	border-radius:20px;
