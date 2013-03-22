@@ -32,7 +32,7 @@ section.content{
 }
 
 
-section.content article - article.img{
+section.content article{
 	position:inherit;
 	top:0;
 	
@@ -70,7 +70,4 @@ footer {
 form {
 	margin:0;
 
-}
-section.content article - article.img{
-	
 }
