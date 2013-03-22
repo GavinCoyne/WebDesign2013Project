@@ -6,8 +6,9 @@ body {
 	//border:1px solid black;
 	background-color:white;
 	
-	-moz-box-shadow: 10px 10px 5px hsl(0, 45%, 34%), -10px -10px -5px hsl(0, 45%, 34%);
+	-moz-box-shadow: 10px 10px 5px hsl(0, 45%, 34%);
 	-webkit-box-shadow: 10px 10px 5px hsl(0, 45%, 34%));
+    -webkit-box-shadow: -10px -10px -5px hsl(0, 45%, 34%));
 	box-shadow: 10px 10px 5px hsl(0, 45%, 34%);
 	
 	-moz-box-shadow: 10px 10px 5px rgb(126, 48, 48);

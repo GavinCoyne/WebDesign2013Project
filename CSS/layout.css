@@ -32,7 +32,7 @@ section.content{
 }
 
 
-section.content article{
+section.content article, -article.img {
 	position:inherit;
 	top:0;
 	
