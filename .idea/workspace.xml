@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/layout.css" afterPath="$PROJECT_DIR$/CSS/layout.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363977078724" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363977099304" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363904178072" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
@@ -49,7 +48,7 @@
           <file leaf-file-name="index.htm" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.htm">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="36" column="61" selection-start="1314" selection-end="1314" vertical-scroll-proportion="0.3908046">
+                <state line="36" column="61" selection-start="1314" selection-end="1314" vertical-scroll-proportion="0.6200608">
                   <folding>
                     <element signature="tag#head#0;tag#html#0" expanded="false" />
                   </folding>
@@ -120,7 +119,7 @@
           <file leaf-file-name="layout.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CSS/layout.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="73" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="0.8181818">
+                <state line="73" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="1.2472826">
                   <folding />
                 </state>
               </provider>
@@ -294,7 +293,11 @@
       <created>1363977081759</created>
       <updated>1363977081759</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1363977103753</created>
+      <updated>1363977103753</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -319,10 +322,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32879046" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -457,7 +460,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="61" selection-start="1314" selection-end="1314" vertical-scroll-proportion="0.3908046">
+        <state line="36" column="61" selection-start="1314" selection-end="1314" vertical-scroll-proportion="0.6200608">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
           </folding>
@@ -473,7 +476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="0.8181818">
+        <state line="73" column="0" selection-start="754" selection-end="754" vertical-scroll-proportion="1.2472826">
           <folding />
         </state>
       </provider>
