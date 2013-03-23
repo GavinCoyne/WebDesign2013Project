@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/Header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/effects.css" afterPath="$PROJECT_DIR$/CSS/effects.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/form.js" afterPath="$PROJECT_DIR$/scripts/form.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/home.htm" afterPath="$PROJECT_DIR$/Content/home.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/layout.css" afterPath="$PROJECT_DIR$/CSS/layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/template.html" afterPath="$PROJECT_DIR$/Content/template.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364011952708" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364069736074" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
@@ -31,7 +27,7 @@
     <file path="/a.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364007100485" ignored="false" />
     <file path="/a.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364007207692" ignored="false" />
     <file path="/scroll.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364010968885" ignored="false" />
-    <file path="/template.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364069729859" ignored="false" />
+    <file path="/template.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364070241999" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +70,7 @@
           <file leaf-file-name="template.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Content/template.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.2004717">
+                <state line="13" column="82" selection-start="354" selection-end="354" vertical-scroll-proportion="0.2606132">
                   <folding />
                 </state>
               </provider>
@@ -92,7 +88,7 @@
           <file leaf-file-name="forms.htm" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Content/forms.htm">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="78" column="0" selection-start="3109" selection-end="3109" vertical-scroll-proportion="-5.1153846">
+                <state line="13" column="64" selection-start="495" selection-end="655" vertical-scroll-proportion="-8.5">
                   <folding />
                 </state>
               </provider>
@@ -123,7 +119,7 @@
           <file leaf-file-name="form.js" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scripts/form.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="5" column="13" selection-start="32" selection-end="32" vertical-scroll-proportion="0.09725401">
+                <state line="6" column="13" selection-start="46" selection-end="46" vertical-scroll-proportion="0.11670481">
                   <folding />
                 </state>
               </provider>
@@ -355,7 +351,11 @@
       <created>1364011954880</created>
       <updated>1364011954880</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit">
+      <created>1364069738292</created>
+      <updated>1364069738292</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -463,13 +463,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Content/forms.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="0" selection-start="3109" selection-end="3109" vertical-scroll-proportion="-5.1153846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Content/app.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="48" selection-start="535" selection-end="535" vertical-scroll-proportion="-5.1153846">
@@ -487,13 +480,6 @@
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="38" selection-start="432" selection-end="432" vertical-scroll-proportion="-0.8126195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Content/gallery.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="39" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.9615384">
           <folding />
         </state>
       </provider>
@@ -563,14 +549,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/form.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="32" selection-end="32" vertical-scroll-proportion="0.09725401">
+        <state line="6" column="13" selection-start="46" selection-end="46" vertical-scroll-proportion="0.11670481">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/gallery.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="39" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.9615384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/forms.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="64" selection-start="495" selection-end="655" vertical-scroll-proportion="-8.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.2004717">
+        <state line="13" column="82" selection-start="354" selection-end="354" vertical-scroll-proportion="0.2606132">
           <folding />
         </state>
       </provider>
