@@ -8,7 +8,6 @@
 function TodoCtrl($scope)
 {
 
-
     $scope.todos = [
         {text:'Learn Angular JS', done:false},
         {text:'Build an ap', done:false}
@@ -24,7 +23,7 @@ function TodoCtrl($scope)
     };
 
     $scope.addTodo = function (){
-        $scope.todos.push({text:$scope.formTodoText, done:false});
+        $scope.todos.push({text:$scope.formTodoText, done:true});
         $scope.formTodoText = '';
     };
 

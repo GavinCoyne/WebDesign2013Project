@@ -1,6 +1,4 @@
 /*CSS for images.*/
-
-
 article.img
 {
 	width:86%;
@@ -8,9 +6,9 @@ article.img
 	background-color:hsla(28, 6%, 50%,0.8);
 	margin:45px auto;
 	border-radius:15px;
-	-webkit-box-shadow: 10px 10px 5px #000;
-	-moz-box-shadow: 10px 10px 5px #000;
-	box-shadow: 5px 5px 2px #000;
+	-webkit-box-shadow: 10px 10px 5px #FFF;
+	-moz-box-shadow: 10px 10px 5px #FFF;
+	box-shadow: 5px 5px 2px #FFF;
 }
 
 article.img div.imgDiv
