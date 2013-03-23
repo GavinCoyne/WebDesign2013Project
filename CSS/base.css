@@ -1,5 +1,17 @@
+* {
+    margin:0;
+    padding:0;
+    top:0;
+    list-style:none;
+    border:none;
+    background:none;
+    color: #000000;
+
+}
+
+
 h1 {
-    margin:20px;
+
 }
 
 h2 {

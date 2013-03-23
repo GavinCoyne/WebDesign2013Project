@@ -2,26 +2,32 @@
 Gavin Coyne
 Effects and Design CSS
 */
-body {
-	//border:1px solid black;
-	background-color:white;
-	
-	-moz-box-shadow: 10px 10px 5px hsl(0, 45%, 34%);
-	-webkit-box-shadow: 10px 10px 5px hsl(0, 45%, 34%));
-    -webkit-box-shadow: -10px -10px -5px hsl(0, 45%, 34%));
-	box-shadow: 10px 10px 5px hsl(0, 45%, 34%);
-	
-	-moz-box-shadow: 10px 10px 5px rgb(126, 48, 48);
-	-webkit-box-shadow: 10px 10px 5px rgb(126, 48, 48);
-	box-shadow: 10px 10px 5px rgb(126, 48, 48));
-	
-	-moz-box-shadow: 10px 10px 5px hsl(0, 45%, 34%);
-	-webkit-box-shadow: 10px 10px 5px hsl(0, 45%, 34%);
-	box-shadow: 10px 10px 20px hsl(0, 1%, 9%);
-	
-	-webkit-border-radius: 20px;
-	-moz-border-radius: 20px;
-	border-radius: 20px;
+div.top-bg
+{
+    background-color:#FF5757;
+    background-color:rgba(255, 87, 87,.95);
+    background-color:hsla(0, 100%, 34%, 0.95);
+    background-image: -webkit-linear-gradient(
+        bottom, hsl(0, 0%, 100%) 0%,
+        hsla(0, 100%, 34%, 0.95) 75%
+    );
+}
+
+div.body-border{
+
+    -webkit-box-shadow: 0 0 40px #000000;
+    -o-box-shadow: 0 0 40px #000000;
+    -moz-box-shadow: 0 0 40px #000000;
+    box-shadow: 0 0 40px #000000;
+
+    border-radius: 15px 0 15px 0;
+}
+div.body {
+    background-color:#FFFFFF;
+
+}
+div.body, div.body-border {
+    border-radius: 15px ;
 }
 
 header, h1{
@@ -52,12 +58,6 @@ div.scrollDiv {
 }
 
 footer {
-	-webkit-border-bottom-right-radius: 20px;
-	-webkit-border-bottom-left-radius: 20px;
-	-moz-border-radius-bottomright: 20px;
-	-moz-border-radius-bottomleft: 20px;
-	border-bottom-right-radius: 20px;
-	border-bottom-left-radius: 20px;
 	text-align:center;
 }
 
