@@ -24,6 +24,11 @@ div.body-border{
 }
 div.body {
     background-color:#FFFFFF;
+    -webkit-box-shadow: 0 0 10px #000000;
+    -o-box-shadow: 0 0 10px #000000;
+    -moz-box-shadow: 0 0 10px #000000;
+    box-shadow: 0 0 10px #000000;
+    padding:15px 15px 0 15px;
 
 }
 div.body, div.body-border {
@@ -35,8 +40,8 @@ header, h1{
 	-webkit-border-top-right-radius: 20px;
 	-moz-border-radius-topleft: 20px;
 	-moz-border-radius-topright: 20px;
-	border-top-left-radius: 20px;
-	border-top-right-radius: 20px;
+	border-radius: 20px;
+
 
 }
 
