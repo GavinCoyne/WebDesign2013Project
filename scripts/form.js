@@ -1,11 +1,6 @@
-function formCtrl($scope){
-
-
-
-
-}
-function Ctrl($scope){
-    $scope.$parent;//is the CtrlA.ngInclude, not the CtrlA
-    $scope.$parent.$parent;//is the CtrlA
-
+function Ctrl($scope) {
+    $scope.templates =
+        [ { name: 'template1.html', url: 'template1.html'}
+            , { name: 'template2.html', url: 'template2.html'} ];
+    $scope.template = $scope.templates[0];
 }

@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/template1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/template2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/Header.html" afterPath="$PROJECT_DIR$/Content/Header.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/form.js" afterPath="$PROJECT_DIR$/scripts/form.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/template.html" afterPath="$PROJECT_DIR$/Content/template.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364069736074" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364070312566" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
@@ -23,11 +26,12 @@
     <file path="/base.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364008946014" ignored="false" />
     <file path="/gallery.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979568513" ignored="false" />
     <file path="/home.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364012696070" ignored="false" />
-    <file path="/a.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364007358376" ignored="false" />
+    <file path="/a.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364073291214" ignored="false" />
     <file path="/a.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364007100485" ignored="false" />
     <file path="/a.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364007207692" ignored="false" />
     <file path="/scroll.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364010968885" ignored="false" />
-    <file path="/template.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364070241999" ignored="false" />
+    <file path="/template.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364225720296" ignored="false" />
+    <file path="/Header.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364225247646" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,43 +65,34 @@
           <file leaf-file-name="Header.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Content/Header.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="35" column="9" selection-start="1576" selection-end="1576" vertical-scroll-proportion="-22.884615">
+                <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="-0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="template.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="template.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Content/template.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="13" column="82" selection-start="354" selection-end="354" vertical-scroll-proportion="0.2606132">
+                <state line="16" column="55" selection-start="449" selection-end="449" vertical-scroll-proportion="0.5074627">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="gallery.htm" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Content/gallery.htm">
+          <file leaf-file-name="template1.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Content/template1.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="39" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.9615384">
+                <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="forms.htm" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Content/forms.htm">
+          <file leaf-file-name="template2.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Content/template2.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="13" column="64" selection-start="495" selection-end="655" vertical-scroll-proportion="-8.5">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="app.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Content/app.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="15" column="48" selection-start="535" selection-end="535" vertical-scroll-proportion="-5.1153846">
+                <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.0">
                   <folding />
                 </state>
               </provider>
@@ -116,10 +111,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="form.js" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="form.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scripts/form.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="6" column="13" selection-start="46" selection-end="46" vertical-scroll-proportion="0.11670481">
+                <state line="5" column="12" selection-start="216" selection-end="216" vertical-scroll-proportion="0.15124555">
                   <folding />
                 </state>
               </provider>
@@ -192,7 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Content/todo.css" />
         <option value="$PROJECT_DIR$/Content/app.html" />
         <option value="$PROJECT_DIR$/Content/forms.htm" />
         <option value="$PROJECT_DIR$/index.htm" />
@@ -205,16 +199,18 @@
         <option value="$PROJECT_DIR$/CSS/layout.css" />
         <option value="$PROJECT_DIR$/CSS/effects.css" />
         <option value="$PROJECT_DIR$/Content/Header.html" />
-        <option value="$PROJECT_DIR$/scripts/form.js" />
+        <option value="$PROJECT_DIR$/Content/template2.html" />
+        <option value="$PROJECT_DIR$/Content/template1.html" />
         <option value="$PROJECT_DIR$/Content/template.html" />
+        <option value="$PROJECT_DIR$/scripts/form.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -263,7 +259,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="preferences.sourceCode.JavaScript" />
+    <property name="options.lastSelected" value="editing.templates" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.searchVisible" value="true" />
@@ -355,7 +351,11 @@
       <created>1364069738292</created>
       <updated>1364069738292</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit">
+      <created>1364070315091</created>
+      <updated>1364070315091</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -379,11 +379,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32767403" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14594193" sideWeight="0.64906305" order="0" side_tool="false" content_ui="combo" />
@@ -463,27 +463,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Content/app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="48" selection-start="535" selection-end="535" vertical-scroll-proportion="-5.1153846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/modernizr-1.5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="790" column="7" selection-start="32688" selection-end="32688" vertical-scroll-proportion="0.030965392">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="38" selection-start="432" selection-end="432" vertical-scroll-proportion="-0.8126195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Content/todo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="1" selection-start="68" selection-end="68" vertical-scroll-proportion="0.090747334">
@@ -519,20 +498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Content/home.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="57" selection-start="1098" selection-end="3058" vertical-scroll-proportion="-27.461538">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Content/Header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="9" selection-start="1576" selection-end="1576" vertical-scroll-proportion="-22.884615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/img.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="11" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0">
@@ -547,30 +512,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/form.js">
+    <entry file="file://$PROJECT_DIR$/Content/forms.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="46" selection-end="46" vertical-scroll-proportion="0.11670481">
+        <state line="27" column="77" selection-start="1186" selection-end="1186" vertical-scroll-proportion="-17.653847">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="48" selection-start="535" selection-end="535" vertical-scroll-proportion="-5.1153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/template1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/gallery.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="39" selection-start="70" selection-end="70" vertical-scroll-proportion="-1.9615384">
+        <state line="3" column="39" selection-start="70" selection-end="70" vertical-scroll-proportion="0.09751434">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Content/forms.htm">
+    <entry file="file://$PROJECT_DIR$/Content/template2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="64" selection-start="495" selection-end="655" vertical-scroll-proportion="-8.5">
+        <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/home.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="57" selection-start="1098" selection-end="3058" vertical-scroll-proportion="-27.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/Header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="82" selection-start="354" selection-end="354" vertical-scroll-proportion="0.2606132">
+        <state line="16" column="55" selection-start="449" selection-end="449" vertical-scroll-proportion="0.5074627">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="12" selection-start="216" selection-end="216" vertical-scroll-proportion="0.15124555">
           <folding />
         </state>
       </provider>
