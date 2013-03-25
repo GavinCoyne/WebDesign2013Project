@@ -1,41 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/buy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/container.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/forms.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/offsite.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/sell.html" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\Header.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\about.htm" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\app.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\buy.htm" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\contact.htm" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\container.htm" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\forms.htm" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\home.htm" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\offsite.htm" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\sell.htm" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\template.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\template1.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\template2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\todo.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\todo.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/effects.css" afterPath="$PROJECT_DIR$/CSS/effects.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/gallery.htm" afterPath="$PROJECT_DIR$/Content/gallery.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.htm" afterPath="$PROJECT_DIR$/index.htm" />
+    <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/layout.css" afterPath="$PROJECT_DIR$/CSS/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/nav.css" afterPath="$PROJECT_DIR$/CSS/nav.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364241295449" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364245523498" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
@@ -115,10 +87,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="forms.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="forms.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Content/forms.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="78" column="25" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.44741875">
+                <state line="78" column="25" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.5621415">
                   <folding />
                 </state>
               </provider>
@@ -175,10 +147,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="layout.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CSS/layout.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="99" column="28" selection-start="1179" selection-end="1179" vertical-scroll-proportion="0.81005585">
+                <state line="99" column="4" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.81005585">
                   <folding />
                 </state>
               </provider>
@@ -239,7 +211,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/CSS/nav.css" />
-        <option value="$PROJECT_DIR$/CSS/layout.css" />
         <option value="$PROJECT_DIR$/Content/home.htm" />
         <option value="$PROJECT_DIR$/Content/teset.html" />
         <option value="$PROJECT_DIR$/Content/test.html" />
@@ -254,6 +225,7 @@
         <option value="$PROJECT_DIR$/Content/offsite.html" />
         <option value="$PROJECT_DIR$/Content/sell.html" />
         <option value="$PROJECT_DIR$/Content/buy.html" />
+        <option value="$PROJECT_DIR$/CSS/layout.css" />
       </list>
     </option>
   </component>
@@ -436,7 +408,11 @@
       <created>1364241210226</created>
       <updated>1364241210226</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit">
+      <created>1364245528371</created>
+      <updated>1364245528372</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -588,13 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="28" selection-start="1179" selection-end="1179" vertical-scroll-proportion="0.81005585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Content/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="102" column="34" selection-start="4462" selection-end="4462" vertical-scroll-proportion="-14.076923">
@@ -653,7 +622,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/forms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="25" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.44741875">
+        <state line="78" column="25" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.5621415">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="4" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.81005585">
           <folding />
         </state>
       </provider>

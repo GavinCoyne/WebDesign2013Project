@@ -97,7 +97,7 @@ p.article {
 }
 p.content:first-letter{
     font-size:300%;
-    text-transform:drop-cap;
+
 }
 
 div.scrollDiv {
