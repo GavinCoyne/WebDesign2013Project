@@ -1,17 +1,10 @@
 <!doctype html>
 <html ng-app>
 <head>
-    <script src="http://code.angularjs.org/1.0.5/angular.min.js"></script>
+    <script src="http://code.angularjs.org/angular-1.0.0rc3.min.js"></script>
     <script src="form.js"></script>
 </head>
 <body>
-<div ng-controller="Ctrl">
-    <select ng-model="template" ng-options="t.name for t in templates">
-        <option value="">(blank)</option>
-    </select>
-    url of the template: <div>{{template.url}}</div>
-    <hr/>
-    <div ng-include src="template.url"></div>
-</div>
+<ng-indlude src="'template1.html'" ></ng-indlude>
 </body>
 </html>

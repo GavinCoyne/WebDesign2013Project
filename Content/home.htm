@@ -1,33 +1,20 @@
 <!Doctype html>
-<html>
+<html ng-app>
 	<head>
 		
-		
+
+
 		<link href="../CSS/base.css" type="text/css" rel="stylesheet" />
 		<link href="../CSS/nav.css" type="text/css" rel="stylesheet" />
 		<link href="../CSS/effects.css" type="text/css" rel="stylesheet" />
-		<link href="../CSS/layout.css" type="text/css" rel="stylesheet" /> 
-		<link href="../CSS/scroll.css" type="text/css" rel="stylesheet" /> 
+		<link href="../CSS/layout.css" type="text/css" rel="stylesheet" />
 		
 		<script src="../scripts/ksi.js" ></script>
 
-		<script src="http://code.jquery.com/jquery-1.9.1.min.js" ></script>
-		
-		
-		
-		<meta name="description" content="Kamloops Scrap Iron">
-		<meta name="description" content="Scrap Metal recycling center">
-		<meta name="description" content="battery recycling center">
-		<meta name="description" content="steel recycling center">
-		<meta name="description" content="bronze recycling center">
-		<meta name="description" content="copper recycling center">
-		<meta name="description" content="buy sell metal">
-		
-		
 		<title>Kamloops Scrap Iron Ltd.</title>
 	</head>
 	
-	<body>
+	<body onload="startTime('clock')">
     <div class="top-bg"></div>
     <div class="body-border">
 
@@ -35,7 +22,7 @@
             <Header class="content">
                 <div class="banner">
                     <h1 class="content">Kamloops Scrap Iron Ltd.</h1>
-                    <h3 class="time"><div id="txt" ></div></h3>
+                    <h3 class="time" id="clock"></h3>
                 </div>
                 <nav>
                     <ul class="drop" id="nav">

@@ -1,92 +1,96 @@
 <!Doctype html>
-<html>
-	<head>
-        <link href="../CSS/base.css" type="text/css" rel="stylesheet" />
-        <link href="../CSS/nav.css" type="text/css" rel="stylesheet" />
-		<link href="../CSS/effects.css" type="text/css" rel="stylesheet" /> 
-		<link href="../CSS/layout.css" type="text/css" rel="stylesheet" /> 
-		<link href="../CSS/scroll.css" type="text/css" rel="stylesheet" /> 
-		<link href="../CSS/img.css" type="text/css" rel="stylesheet" />
-		
-		<script src="../scripts/ksi.js" ></script>
-		<script src="../scripts/modernizr-1.5.js" ></script>
-		<script src="http://code.jquery.com/jquery-1.9.1.min.js" ></script>
-		
-		
-		
-		<meta name="description" content="Kamloops Scrap Iron">
-		<meta name="description" content="Scrap Metal recycling center">
-		<meta name="description" content="battery recycling center">
-		<meta name="description" content="steel recycling center">
-		<meta name="description" content="bronze recycling center">
-		<meta name="description" content="copper recycling center">
-		<meta name="description" content="buy sell metal">
-		
-		
-		<title>Kamloops Scrap Iron Ltd.</title>
-	</head>
-	
-	<body>
-		<Header class="content">
-			<h1 class="content">Kamloops Scrap Iron Ltd.</h1>
-			<h3 class="time"><div id="txt" name="txt" ></div></h3>
-			<nav>
-				<ul class="drop" id="nav">
-					<li class="top"><a href="../Content/home.htm" > Home</a></li>
-					<li class="top"><a href="../Content/about.htm" >About Us</a>	
-						<ul>
-							<li><a href="../Content/about.htm"> About Us</a></li>
-							<li><a href="../Content/gallery.htm" > Gallery</a></li>
-							<li class="top"><a href="../Content/contact.htm" >Contact</a>
-								<ul>
-									<li><a href="../Content/contact.htm#info" >Contact Info</a></li>
-									<li><a href="../Content/contact.htm#hours" >Business Hours</a></li>
-									<li><a href="../Content/contact.htm#location" >Location</a></li>
-									<li><a href="../Content/forms.htm" >Survey</a></li>
-								</ul>
-							</li>
-						</ul>
-					</li>
-					<li class="top"><a>Buy/Sell</a>	
-						<ul>
-							<li><a href="../Content/buy.htm" >What We Buy</a></li>
-							<li><a href="../Content/sell.htm" >What We Sell</a></li>
-						</ul>
-					</li>
-					<li class="top"><a href="../Content/offsite.htm" >Offsite Cleanup</a></li>
-					<li class="top"><a href="../Content/container.htm" >Container Services</a></li>
-					
-				</ul>
-			</nav>
-		
-		
-		</header>
-		
-		
-		
-		<section class="content">
+<html ng-app>
+<head>
 
-		<h2>Gallery.htm</h2>	
-	
-			
-			<article class="img">
-				<div class="imgDiv">
-					<img class="article" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo0yH3JAG5qU1G8F7jbVeezpvEiJjfcdz5YvADoXRF0aB7CaGq" />
-					<img class="article"  src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoWDrkjfAJLKWPdtAP12AplXZfHBiRJVXkP8lxVb5Och2NAotLgA" />
-					<img  class="article" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-fVlol6exbhUybLrKcAL_JZVTBUWBo54IH9Q6aeDpvZUB_kH4" />
-					<img  class="article" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSvYa-YbKhOn1iedikr5PbkUpoJNHSan03Y9V_ndgkUWXIBUQ8" />
-					<img  class="article" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnU_SJPc1zF5UqCMl7-1WB_BqKjmFOuPJVu8QOAZMZX5L8ROCjIA" />
-					<img  class="article" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_5wEDnBemcaqL4QRieJ2usEJWa6AqA9afjPHTiMmztbKp_Dx44w" />
-					<img  class="article" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDhqaMlLaQSTEw0m0o0kh4UjsTHgcsuZjuec-hC9y4Im2MMaC1mA" />
-				</div>
-			</article>
-		</section>
-		
-		
-		<footer>
-		Kamloops Scrap Iron Ltd. 955 Ord Road, Kamloops, BC, Phone: (250) 554-3491 Toll Free: (866) 797-2727 
-		</footer>
-	</body>
 
-</html>
+    <link href="../CSS/base.css" type="text/css" rel="stylesheet" />
+    <link href="../CSS/nav.css" type="text/css" rel="stylesheet" />
+    <link href="../CSS/effects.css" type="text/css" rel="stylesheet" />
+    <link href="../CSS/layout.css" type="text/css" rel="stylesheet" />
+    <link href="../CSS/img.css" type="text/css" rel="stylesheet" />
+
+    <script src="../scripts/ksi.js" ></script>
+
+    <title>Kamloops Scrap Iron Ltd.</title>
+</head>
+
+<body onload="startTime('clock')">
+<div class="top-bg"></div>
+<div class="body-border">
+
+    <div class="body">
+        <Header class="content">
+            <div class="banner">
+                <h1 class="content">Kamloops Scrap Iron Ltd.</h1>
+                <h3 class="time" id="clock"></h3>
+            </div>
+            <nav>
+                <ul class="drop" id="nav">
+                    <li class="top"><a href="../Content/home.htm" > Home</a></li>
+                    <li class="top"><a href="../Content/about.htm" >About Us</a>
+                        <ul>
+                            <li><a href="../Content/about.htm"> About Us</a></li>
+                            <li><a href="../Content/gallery.htm" > Gallery</a></li>
+                            <li class="top"><a href="../Content/contact.htm" >Contact</a>
+                                <ul>
+                                    <li><a href="../Content/contact.htm#info" >Contact Info</a></li>
+                                    <li><a href="../Content/contact.htm#hours" >Business Hours</a></li>
+                                    <li><a href="../Content/contact.htm#location" >Location</a></li>
+                                    <li><a href="../Content/forms.htm" >Survey</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="top"><a>Buy/Sell</a>
+                        <ul>
+                            <li><a href="../Content/buy.htm" >What We Buy</a></li>
+                            <li><a href="../Content/sell.htm" >What We Sell</a></li>
+                        </ul>
+                    </li>
+                    <li class="top"><a href="../Content/offsite.htm" >Offsite Cleanup</a></li>
+                    <li class="top"><a href="../Content/container.htm" >Container Services</a></li>
+
+                </ul>
+            </nav>
+
+
+        </header>
+
+
+
+        <section class="content">
+            <h2>Gallery.htm</h2>
+
+
+            <article class="img">
+                <div class="imgDiv">
+                    <img class="article" src="../images/yoda.jpg" height="200px" width="200px;" onclick="loadImage('../images/yoda.jpg','Yoda!')" />
+                    <img class="article"  src="../images/scrap1.jpg"  height="200px" width="200px;" onclick="loadImage('../images/scrap1.jpg','Image 1')">
+                    <img class="article"  src="../images/scrap2.jpg"  height="200px" width="200px;" onclick="loadImage('../images/scrap2.jpg','Image 2')">
+                    <img class="article"  src="../images/scrap3.jpg" height="200px" width="200px;"  onclick="loadImage('../images/scrap3.jpg','Image 3')">
+                    <img class="article"  src="../images/scrap4.jpg" height="200px" width="200px;"  onclick="loadImage('../images/scrap4.jpg','Image 4')">
+                    <img class="article"  src="../images/scrap5.jpg" height="200px" width="200px;" onclick="loadImage('../images/scrap5.jpg','Image 5')">
+                    <img class="article"  src="../images/scrap6.jpg" height="200px" width="200px;"  onclick="loadImage('../images/scrap6.jpg','Image 6')">
+                    <img class="article"  src="../images/scrap7.jpg"  height="200px" width="200px;" onclick="loadImage('../images/scrap7.jpg','Image 7')">
+
+                     </div>
+            </article>
+            <div class="fullScreen" id="fullImage" ></div>
+        </section>
+        <div class="body-bottom">
+            <footer>
+                <address>
+                    <em class="fn">Kamloops Scrap Iron Ltd.</em>
+                    <em>955 Ord Road, Kamloops, BC</em>
+                    <em>Phone: (250) 554-3491 Toll Free: (866) 797-2727</em>
+                </address>
+            </footer>
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+
 </html>

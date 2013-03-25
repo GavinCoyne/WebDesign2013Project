@@ -46,7 +46,7 @@ ul.drop li {
 
 ul.drop { 
 	position: relative; 
-	z-index: 597; 
+	z-index: 10;
 	float:left;
 	
 	}
