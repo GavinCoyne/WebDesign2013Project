@@ -43,8 +43,7 @@ div.body {
 
 div.body-bottom{
    bottom:0;
-    width:74%;
-    margin:0 auto;
+   margin:0 auto;
 }
 div.banner{
 
@@ -106,7 +105,7 @@ div.scrollDiv {
 
 footer {
 	min-height:25px;
-	max-height:50px;
+    width:100%;
 	position:relative;
 }
 

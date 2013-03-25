@@ -28,11 +28,13 @@ div.body {
     -o-box-shadow: 0 0 10px #000000;
     -moz-box-shadow: 0 0 10px #000000;
     box-shadow: 0 0 10px #000000;
-    padding:15px 15px 0 15px;
 
 }
 div.body, div.body-border {
     border-radius: 15px ;
+}
+div.banner {
+    padding:20px;
 }
 
 header, h1{

@@ -2,20 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/effects.css" afterPath="$PROJECT_DIR$/CSS/effects.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/img.css" afterPath="$PROJECT_DIR$/CSS/img.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/layout.css" afterPath="$PROJECT_DIR$/CSS/layout.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364245523498" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364245559217" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
     <file path="/forms.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363969840548" ignored="false" />
     <file path="/form.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363968720202" ignored="false" />
-    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364241981348" ignored="false" />
-    <file path="/layout.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364243116513" ignored="false" />
-    <file path="/img.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364240178734" ignored="false" />
+    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364245824070" ignored="false" />
+    <file path="/layout.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364245664064" ignored="false" />
+    <file path="/img.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364246259060" ignored="false" />
     <file path="/base.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364008946014" ignored="false" />
     <file path="/gallery.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364245160083" ignored="false" />
     <file path="/home.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364243793016" ignored="false" />
@@ -90,7 +92,7 @@
           <file leaf-file-name="forms.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Content/forms.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="78" column="25" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.5621415">
+                <state line="17" column="54" selection-start="562" selection-end="562" vertical-scroll-proportion="-1.5353729">
                   <folding />
                 </state>
               </provider>
@@ -147,10 +149,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="layout.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CSS/layout.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="99" column="4" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.81005585">
+                <state line="45" column="3" selection-start="487" selection-end="487" vertical-scroll-proportion="-9.24">
                   <folding />
                 </state>
               </provider>
@@ -159,16 +161,16 @@
           <file leaf-file-name="effects.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CSS/effects.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="56" column="4" selection-start="1169" selection-end="1169" vertical-scroll-proportion="-13.32">
+                <state line="53" column="52" selection-start="1095" selection-end="1112" vertical-scroll-proportion="-3.4">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="img.css" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="img.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CSS/img.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="53" column="4" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0">
+                <state line="58" column="4" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.5160142">
                   <folding />
                 </state>
               </provider>
@@ -210,8 +212,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/CSS/nav.css" />
-        <option value="$PROJECT_DIR$/Content/home.htm" />
         <option value="$PROJECT_DIR$/Content/teset.html" />
         <option value="$PROJECT_DIR$/Content/test.html" />
         <option value="$PROJECT_DIR$/Content/buy.htm" />
@@ -226,6 +226,8 @@
         <option value="$PROJECT_DIR$/Content/sell.html" />
         <option value="$PROJECT_DIR$/Content/buy.html" />
         <option value="$PROJECT_DIR$/CSS/layout.css" />
+        <option value="$PROJECT_DIR$/CSS/effects.css" />
+        <option value="$PROJECT_DIR$/CSS/img.css" />
       </list>
     </option>
   </component>
@@ -412,7 +414,11 @@
       <created>1364245528371</created>
       <updated>1364245528372</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="commit with templating in webstorm&#10;">
+      <created>1364245561566</created>
+      <updated>1364245561566</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -500,7 +506,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit with templating in webstorm&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -515,18 +521,12 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="commit" />
+    <MESSAGE value="commit with templating in webstorm&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSS/img.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="4" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/scroll.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="49" selection-start="96" selection-end="96" vertical-scroll-proportion="0.15124555">
@@ -546,13 +546,6 @@
     <entry file="file://$PROJECT_DIR$/CSS/base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="11" selection-start="153" selection-end="153" vertical-scroll-proportion="0.36476868">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/effects.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="4" selection-start="1169" selection-end="1169" vertical-scroll-proportion="-13.32">
           <folding />
         </state>
       </provider>
@@ -622,14 +615,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/forms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="25" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.5621415">
+        <state line="17" column="54" selection-start="562" selection-end="562" vertical-scroll-proportion="-1.5353729">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="4" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.81005585">
+        <state line="45" column="3" selection-start="487" selection-end="487" vertical-scroll-proportion="-9.24">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/effects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="52" selection-start="1095" selection-end="1112" vertical-scroll-proportion="-3.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/img.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="4" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.5160142">
           <folding />
         </state>
       </provider>
