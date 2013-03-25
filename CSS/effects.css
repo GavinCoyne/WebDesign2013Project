@@ -45,9 +45,12 @@ header, h1{
 
 }
 
-h1.header {
+h1.content {
 	word-spacing:7px;
 	letter-spacing:3px;
+    font-size:3em;
+    text-shadow:2px 2px 2px black ,3px 3px 5px black;
+    color:red;
 }
 
 section.content article -article.img {

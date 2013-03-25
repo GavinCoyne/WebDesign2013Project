@@ -70,7 +70,7 @@ article.content, -article.img {
 	top:0;
 	
 	float:right;
-	
+	text-align:center;
 	width:30%;
 	height:300px;
 	min-width:120px;
@@ -78,20 +78,30 @@ article.content, -article.img {
 	max-height:300px;
 
 	margin:10px;
+    box-shadow:0 0 10px black;
 
+}
+
+article.content h1{
+    margin:10px;
+    border-bottom:1px solid rgba(0,0,0,0.5);
+    border-radius:0px;
 }
 
 p.content {
 	margin:35px 10px 10px 15px;
+    padding:15px;
 }
 p.article {
 	margin:10px;
 }
+p.content:first-letter{
+    font-size:300%;
+    text-transform:drop-cap;
+}
 
 div.scrollDiv {
 	max-height:300px;
-	padding-right:15px;
-	position:inherit;
 }
 
 footer {
