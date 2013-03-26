@@ -81,6 +81,22 @@ article.content, -article.img {
 
 }
 
+table.content{
+    float:left;
+    top:0;
+    left:0;
+    padding:0px;
+    border:1px solid black;
+    width:65%;
+    margin:15px 0 0 15px;
+
+}
+
+table.content th, table.content td{
+    border:1px solid black;
+
+}
+
 article.content h1{
     margin:10px;
     border-bottom:1px solid rgba(0,0,0,0.5);
@@ -91,6 +107,7 @@ p.content {
 	margin:35px 10px 10px 15px;
     padding:15px;
 }
+
 p.article {
 	margin:10px;
 }
