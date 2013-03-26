@@ -58,6 +58,6 @@ article.img div img.article
     display:block;
     max-height:70%;
     max-width:70%;
-    box-shadow:0 0 25px white;
+    box-shadow:0 0 25px #FFF;
 }
 

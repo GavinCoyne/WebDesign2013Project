@@ -3,7 +3,9 @@ Gavin Coyne
 Horizontal NavBar with dropdowns.
 */
 
-
+      nav {
+          height:26px;
+      }
 ul.drop a 
 { 
 	display:block; 

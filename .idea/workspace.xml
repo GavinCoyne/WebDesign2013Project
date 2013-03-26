@@ -2,20 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/img.css" afterPath="$PROJECT_DIR$/CSS/img.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/layout.css" afterPath="$PROJECT_DIR$/CSS/layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/nav.css" afterPath="$PROJECT_DIR$/CSS/nav.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/requirements.html" afterPath="$PROJECT_DIR$/Content/requirements.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364317450394" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364326900759" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
     <file path="/forms.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363969840548" ignored="false" />
     <file path="/form.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363968720202" ignored="false" />
-    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364245824070" ignored="false" />
-    <file path="/layout.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364249160078" ignored="false" />
-    <file path="/img.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364246259060" ignored="false" />
+    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364327694322" ignored="false" />
+    <file path="/layout.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364328360776" ignored="false" />
+    <file path="/img.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364328105319" ignored="false" />
     <file path="/base.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364008946014" ignored="false" />
     <file path="/gallery.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364249823057" ignored="false" />
     <file path="/home.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364243793016" ignored="false" />
@@ -31,7 +34,8 @@
     <file path="/about.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364249719439" ignored="false" />
     <file path="/container.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364245378813" ignored="false" />
     <file path="/contact.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364249130866" ignored="false" />
-    <file path="/requirements.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364318848690" ignored="false" />
+    <file path="/requirements.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364326923148" ignored="false" />
+    <file path="/nav.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364328315581" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +54,7 @@
     <favorites_list name="WebDesign2013Project" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.21965748">
+    <splitter split-orientation="horizontal" split-proportion="0.5487714">
       <split-first>
         <leaf>
           <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
@@ -62,10 +66,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="gallery.htm" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="gallery.htm" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Content/gallery.htm">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="58" column="82" selection-start="2444" selection-end="2444" vertical-scroll-proportion="0.3250478">
+                <state line="82" column="86" selection-start="4147" selection-end="4147" vertical-scroll-proportion="0.31739962">
                   <folding />
                 </state>
               </provider>
@@ -149,19 +153,19 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CSS/layout.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="93" column="6" selection-start="1037" selection-end="1037" vertical-scroll-proportion="-10.6">
+                <state line="81" column="17" selection-start="903" selection-end="903" vertical-scroll-proportion="0.68342644">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="requirements.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="requirements.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Content/requirements.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="340" column="12" selection-start="21718" selection-end="21718" vertical-scroll-proportion="0.624498">
+                <state line="258" column="13" selection-start="16363" selection-end="16363" vertical-scroll-proportion="-3.764706">
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -172,7 +176,7 @@
           <file leaf-file-name="nav.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CSS/nav.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="19" column="15" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+                <state line="6" column="22" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -190,7 +194,7 @@
           <file leaf-file-name="effects.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CSS/effects.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="61" column="24" selection-start="1236" selection-end="1236" vertical-scroll-proportion="-6.52">
+                <state line="18" column="60" selection-start="402" selection-end="402" vertical-scroll-proportion="14.56">
                   <folding />
                 </state>
               </provider>
@@ -199,7 +203,7 @@
           <file leaf-file-name="img.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CSS/img.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="41" column="51" selection-start="773" selection-end="773" vertical-scroll-proportion="0.0">
+                <state line="51" column="68" selection-start="993" selection-end="993" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -232,7 +236,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Content/buy.htm" />
         <option value="$PROJECT_DIR$/Content/about.htm" />
         <option value="$PROJECT_DIR$/Content/container.html" />
         <option value="$PROJECT_DIR$/Content/forms.html" />
@@ -240,14 +243,15 @@
         <option value="$PROJECT_DIR$/Content/offsite.html" />
         <option value="$PROJECT_DIR$/Content/sell.html" />
         <option value="$PROJECT_DIR$/Content/buy.html" />
-        <option value="$PROJECT_DIR$/CSS/effects.css" />
-        <option value="$PROJECT_DIR$/CSS/img.css" />
         <option value="$PROJECT_DIR$/Content/contact.html" />
-        <option value="$PROJECT_DIR$/CSS/layout.css" />
         <option value="$PROJECT_DIR$/Content/about.html" />
         <option value="$PROJECT_DIR$/Content/gallery.htm" />
         <option value="$PROJECT_DIR$/CSS/base.css" />
         <option value="$PROJECT_DIR$/Content/requirements.html" />
+        <option value="$PROJECT_DIR$/CSS/effects.css" />
+        <option value="$PROJECT_DIR$/CSS/img.css" />
+        <option value="$PROJECT_DIR$/CSS/nav.css" />
+        <option value="$PROJECT_DIR$/CSS/layout.css" />
       </list>
     </option>
   </component>
@@ -458,7 +462,11 @@
       <created>1364317467644</created>
       <updated>1364317467644</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Requirents &#10;">
+      <created>1364326903371</created>
+      <updated>1364326903371</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -612,13 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/effects.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="24" selection-start="1236" selection-end="1236" vertical-scroll-proportion="-6.52">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Content/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="71" column="39" selection-start="2845" selection-end="2845" vertical-scroll-proportion="-46.423077">
@@ -640,27 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Content/gallery.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="82" selection-start="2444" selection-end="2444" vertical-scroll-proportion="0.3250478">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="6" selection-start="1037" selection-end="1037" vertical-scroll-proportion="-10.6">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/img.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="51" selection-start="773" selection-end="773" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="10" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
@@ -668,19 +648,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/nav.css">
+    <entry file="file://$PROJECT_DIR$/Content/requirements.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="15" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+        <state line="258" column="13" selection-start="16363" selection-end="16363" vertical-scroll-proportion="-3.764706">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/effects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="60" selection-start="402" selection-end="402" vertical-scroll-proportion="14.56">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Content/requirements.html">
+    <entry file="file://$PROJECT_DIR$/CSS/img.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="340" column="12" selection-start="21718" selection-end="21718" vertical-scroll-proportion="0.624498">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="51" column="68" selection-start="993" selection-end="993" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="22" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="17" selection-start="903" selection-end="903" vertical-scroll-proportion="0.68342644">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/gallery.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="86" selection-start="4147" selection-end="4147" vertical-scroll-proportion="0.31739962">
+          <folding />
         </state>
       </provider>
     </entry>
