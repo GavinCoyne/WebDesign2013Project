@@ -7,7 +7,7 @@
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364315604825" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364316122742" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
@@ -31,7 +31,7 @@
     <file path="/about.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364249719439" ignored="false" />
     <file path="/container.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364245378813" ignored="false" />
     <file path="/contact.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364249130866" ignored="false" />
-    <file path="/requirements.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364316119527" ignored="false" />
+    <file path="/requirements.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364316503303" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +161,7 @@
           <file leaf-file-name="requirements.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Content/requirements.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="177" column="6" selection-start="10453" selection-end="10453" vertical-scroll-proportion="0.624498">
+                <state line="204" column="19" selection-start="12987" selection-end="12987" vertical-scroll-proportion="0.7610442">
                   <folding />
                 </state>
               </provider>
@@ -444,7 +444,11 @@
       <created>1364315608651</created>
       <updated>1364315608651</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Requirents 1&#10;">
+      <created>1364316125632</created>
+      <updated>1364316125632</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -661,7 +665,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/requirements.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="177" column="6" selection-start="10453" selection-end="10453" vertical-scroll-proportion="0.624498">
+        <state line="204" column="19" selection-start="12987" selection-end="12987" vertical-scroll-proportion="0.7610442">
           <folding />
         </state>
       </provider>
