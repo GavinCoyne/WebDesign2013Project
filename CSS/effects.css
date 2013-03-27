@@ -51,10 +51,21 @@ h1.content {
 	word-spacing:7px;
 	letter-spacing:3px;
     font-size:3em;
-    text-shadow:2px 2px 2px black ,3px 3px 5px black;
+   /* text-shadow:2px 2px 2px black ,3px 3px 5px black; */
+    text-shadow:0 0 3px black, 3px 3px 3px black;
     color:red;
 }
+.time{
+    text-shadow:1px 2px 1px red;
+    text-shadow:1px 2px 1px #f00;
+    text-shadow:1px 2px 1px rgba(255, 0, 0, 0.9);
+    text-shadow:1px 2px 2px hsla(0, 100%, 50%, 0.9);
+}
 
+section.content h2{
+    text-decoration:underline;
+    text-align: center;
+}
 section.content article -article.img {
 	
 	border:1px solid black;
