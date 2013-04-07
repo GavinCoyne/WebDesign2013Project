@@ -59,9 +59,35 @@
         <section class="content">
 
             <form method="post" action="#">
-                <input name="FName" id="FName" type="text" required="required"></input>
 
-                <input name="submit" id="submit" type="submit"> </input >
+                <fieldset class="PInfo">
+                    <legend name="pInfo">Personal Information:</legend>
+                    <label for="FName">First Name:</label>
+                    <input name="FName" id="FName" type="text"
+                           required="required" placeholder="First Name"></input>
+
+                    <label for="LName">Last Name</label>
+                    <input name="LName" id="LName" type="text"
+                           required="required" placeholder="Last Name"/>
+
+                    <label for="phone">Phone Number: </label>
+                    <input name="phone" id="phone" type="tel"
+                           required="required" placeholder="(999)999-9999"/>
+
+                </fieldset>
+
+                <fieldset class="other">
+                    <input type="time">
+                    <input type="url">
+                    <input type="search">
+
+                    <input type="file">
+
+
+                </fieldset>
+                <input name="submit" id="submit" type="submit">
+                <input type="reset">
+
             </form>
 
 

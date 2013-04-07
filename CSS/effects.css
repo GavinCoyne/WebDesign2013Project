@@ -88,9 +88,23 @@ input.required:focus:valid {
 	background-color:hsla(114, 88%, 66%,0.6);
 }
 
-input[type="text"] {
+input {
     background-color:#d3d3d3;
-    border:solid rgba(0,0,0,.9)
+    border:solid rgba(0,0,0,.9);
+    display:block;
+}
+
+fieldset.PInfo{
+    border:1px solid black;
+    -moz-box-shadow:0 0 15px #000000 ;
+    -webkit-box-shadow:0 0 15px #000000 ;
+    box-shadow:0 0 15px #000000 ;
+    width:46%;
+}
+
+fieldset.PInfo legend{
+    background-color:#FFFFFF;
+    text-shadow:0 -1px 0 #FF0000;
 }
 
 form {

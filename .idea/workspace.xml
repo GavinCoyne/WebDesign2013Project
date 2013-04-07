@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/base.css" afterPath="$PROJECT_DIR$/CSS/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/effects.css" afterPath="$PROJECT_DIR$/CSS/effects.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/forms.html" afterPath="$PROJECT_DIR$/Content/forms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/img.css" afterPath="$PROJECT_DIR$/CSS/img.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/layout.css" afterPath="$PROJECT_DIR$/CSS/layout.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365355328294" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365363914567" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
     <file path="/forms.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363969840548" ignored="false" />
     <file path="/form.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363968720202" ignored="false" />
-    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365363840649" ignored="false" />
+    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365365305298" ignored="false" />
     <file path="/layout.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364328360776" ignored="false" />
     <file path="/img.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365361977886" ignored="false" />
     <file path="/base.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365363441701" ignored="false" />
@@ -38,7 +34,7 @@
     <file path="/contact.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364249130866" ignored="false" />
     <file path="/requirements.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364326923148" ignored="false" />
     <file path="/nav.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364328315581" ignored="false" />
-    <file path="/forms.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365363312052" ignored="false" />
+    <file path="/forms.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365366274106" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +95,7 @@
           <file leaf-file-name="forms.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Content/forms.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="57" column="0" selection-start="2480" selection-end="2480" vertical-scroll-proportion="0.3212237">
+                <state line="106" column="47" selection-start="4107" selection-end="4107" vertical-scroll-proportion="0.8126195">
                   <folding>
                     <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
                   </folding>
@@ -206,7 +202,7 @@
           <file leaf-file-name="effects.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CSS/effects.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="102" column="6" selection-start="1845" selection-end="1872" vertical-scroll-proportion="0.90925264">
+                <state line="101" column="14" selection-start="1950" selection-end="1950" vertical-scroll-proportion="0.7882562">
                   <folding />
                 </state>
               </provider>
@@ -455,7 +451,11 @@
       <created>1364398505451</created>
       <updated>1364398505451</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Requirents &#10;">
+      <created>1365363921565</created>
+      <updated>1365363921565</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -482,6 +482,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32767403" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -495,7 +496,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -667,14 +667,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/effects.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="6" selection-start="1845" selection-end="1872" vertical-scroll-proportion="0.90925264">
+        <state line="101" column="14" selection-start="1950" selection-end="1950" vertical-scroll-proportion="0.7882562">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/forms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="0" selection-start="2480" selection-end="2480" vertical-scroll-proportion="0.3212237">
+        <state line="106" column="47" selection-start="4107" selection-end="4107" vertical-scroll-proportion="0.8126195">
           <folding>
             <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
           </folding>
