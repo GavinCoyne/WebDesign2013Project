@@ -5,10 +5,9 @@ article.img
 	border:1px solid black;
 	background-color:hsla(28, 6%, 50%,0.8);
 	margin:45px auto;
-	border-radius:15px;
-	-webkit-box-shadow: 10px 10px 5px #FFF;
-	-moz-box-shadow: 10px 10px 5px #FFF;
-	box-shadow: 5px 5px 2px #FFF;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+
 }
 
 article.img div.imgDiv
