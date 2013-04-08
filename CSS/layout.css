@@ -85,19 +85,21 @@ article.content, -article.img {
 }
 
 table.content{
-    float:left;
-    top:0;
-    left:0;
+
+
     padding:0px;
     border:1px solid black;
     width:65%;
-    margin:15px 0 0 15px;
-
+    margin:15px auto auto 15px;
+    border-spacing:0;
+    background-color:#D3D3D3;
+    box-shadow:0 0 5px #000000;
+    text-shadow:0 -1px 1px hsla(0, 63%, 50%, 0.57);
 }
 
 table.content th, table.content td{
     border:1px solid black;
-
+    padding:5px;
 }
 
 article.content h1{
