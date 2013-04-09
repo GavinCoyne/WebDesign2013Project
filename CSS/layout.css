@@ -88,7 +88,7 @@ section h3::first-letter{
     font-size:125%;
 }
 
-article.content, -article.img {
+article.content{
 	position:inherit;
 	top:0;
 	
@@ -140,13 +140,26 @@ td.red {
     color:#FF0000;
     color:rgba(255, 0, 0, 0.8);
     color:hsla(0, 100%, 50%, 0.8);
+    font-style:oblique;
+    font-weight: 50;
+    font-size:90%;
+    padding:10px;
+}
+
+.bold {
+    text-transform: uppercase;
+    font-weight: bolder;
+    color:red;
+    color:#FF0000;
+    color:rgba(255, 0, 0, 0.8);
+    color:hsla(0, 100%, 50%, 0.8);
 }
 
 div.map{
     width:425px;
     height:350px;
     margin:30px auto;
-   box-shadow:0 0 5px #000000 ;
+    box-shadow:0 0 5px #000000 ;
 }
 
 caption{
@@ -165,16 +178,16 @@ p.content {
 	margin:15px 10px 10px 25px;
     padding:15px;
     max-width:65%;
-
+    text-shadow:0 0px 1px black;
 }
 
 p.article {
 	margin:10px;
 }
 p.content:first-letter{
-    font-size:200%;
-    text-shadow:0 -1px 2px red;
-
+    font-size:300%;
+    text-shadow:0 0px 5px red;
+    font-style:oblique;
 }
 
 div.scrollDiv {

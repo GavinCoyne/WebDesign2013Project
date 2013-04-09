@@ -77,7 +77,7 @@ h1.content {
     color:rgba(0,0,0,0.95);
     text-transform: uppercase;
     font-style:oblique;
-    text-shadow:0 0 2px  black;
+    text-shadow:0 0 1px black;
 }
 
 span.logo {

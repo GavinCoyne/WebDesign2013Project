@@ -2,6 +2,8 @@
 <html>
 <head>
 
+    <meta charset="utf-8" />
+
     <link href="../CSS/base.css" type="text/css" rel="stylesheet"/>
     <link href="../CSS/nav.css" type="text/css" rel="stylesheet"/>
     <link href="../CSS/effects.css" type="text/css" rel="stylesheet"/>
@@ -71,7 +73,7 @@
                     </tr>
                     <tr>
                         <td>
-                            <ul class="buy">
+                            <ul class="buy" id="unordered">
                                 <li>Aluminum</li>
                                 <li>Batteries</li>
                                 <li>Brass</li>
@@ -160,7 +162,7 @@
                 <tbody>
                     <tr>
                         <td class="red">
-                            NOTE: These items should not be included in any shipment.
+                            NOTE: These items should <span class="bold">not</span> be included in any shipment.
                             If any of these materials are detected, the seller
                             will be held responsible for all costs incurred for
                             decontamination and disposal.
@@ -170,7 +172,7 @@
                     <td>
                         <ul class="buy">
                             <li>Radioactive or bearing radioactive symbols</li>
-                            <li>PCB&#96s</li>
+                            <li id="specialAscii">PCB&#96s</li>
                             <li>CFC&#96s</li>
                             <li>Asbestos</li>
                             <li>Ceramic Fibers</li>
