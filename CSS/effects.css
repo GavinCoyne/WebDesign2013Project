@@ -75,6 +75,9 @@ h1.content {
     font-size:215%;
     display:inline-block;
     color:rgba(0,0,0,0.95);
+    text-transform: uppercase;
+    font-style:oblique;
+    text-shadow:0 0 2px  black;
 }
 
 span.logo {
@@ -170,6 +173,10 @@ form {
 }
 form *{
     margin:10px;
+    display:block;
+}
+input {
+
 }
 
 ul.buy {
@@ -177,9 +184,7 @@ ul.buy {
     margin:5px;
 }
 
-input {
-    display:block;
-}
+
 
     @-ms-keyframes crane{
         from {background-position:top right;}
