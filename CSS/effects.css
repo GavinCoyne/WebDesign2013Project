@@ -4,6 +4,9 @@ Effects and Design CSS
 */
 div.top-bg
 {
+
+
+
     background-color:#FF5757;
     background-color:rgba(255, 87, 87,.95);
     background-color:hsla(0, 100%, 34%, 0.95);
@@ -11,6 +14,14 @@ div.top-bg
         bottom, hsl(0, 0%, 100%) 0%,
         hsla(0, 100%, 34%, 0.95) 75%
     );
+
+
+}
+div.claw{
+    top:0;
+    background-image: url('../IMAGES/crane_claw.png');
+    background-repeat:no-repeat;
+    background-position: bottom left;
 }
 
 div.body-border{
@@ -35,6 +46,17 @@ div.body, div.body-border {
 }
 div.banner {
     padding:20px;
+    background-image: url('../IMAGES/crane.png');
+    background-repeat:no-repeat;
+
+    -ms-animation: crane 5s;
+    -o-animation: crane 5s;
+    -moz-animation: crane 5s;
+    -webkit-animation: crane 5s;
+    animation: crane 5s;
+
+    background-position:bottom right;
+
 }
 
 header, h1{
@@ -51,10 +73,16 @@ h1.content {
 	word-spacing:7px;
 	letter-spacing:3px;
     font-size:3em;
-    text-shadow:0px -2px 1px black;
+    text-shadow:-1px -1px 2px red;
 
-    color:red;
-}
+    color:rgba(0,0,0,0.99);
+} \
+
+h2{
+    text-decoration:none;
+
+  }
+
 .time{
     text-shadow:0px -1px 1px red;
     text-shadow:0px -1px 1px #f00;
@@ -62,10 +90,6 @@ h1.content {
     text-shadow:0px -1px 2px hsla(0, 100%, 50%, 0.9);
 }
 
-section.content h2{
-    text-decoration:underline;
-    text-align: center;
-}
 section.content article -article.img {
 	
 	border:1px solid black;
@@ -115,3 +139,30 @@ form {
 form *{
     margin:10px;
 }
+
+ul.buy {
+    list-style-position: inside;
+    margin:5px;
+}
+
+    @-ms-keyframes crane{
+        from {background-position:top right;}
+        to {background-position:bottom right;}
+    }
+    @-webkit-keyframes crane{
+        from {background-position:top right;}
+        to {background-position:bottom right;}
+    }
+
+    @-moz-keyframes crane{
+        from {background-position:top right;}
+        to {background-position:bottom right;}
+    }
+    @-o-keyframes crane{
+        from {background-position:top right;}
+        to {background-position:bottom right;}
+    }
+    @keyframes crane{
+        from {background-position:top right;}
+        to {background-position:bottom right;}
+    }
