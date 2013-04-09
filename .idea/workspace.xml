@@ -1,35 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\ha.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Gavin\Dropbox\Public\WebDesign2013Project\Content\home.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/about.html" afterPath="$PROJECT_DIR$/Content/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/buy.html" afterPath="$PROJECT_DIR$/Content/buy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/contact.html" afterPath="$PROJECT_DIR$/Content/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/container.html" afterPath="$PROJECT_DIR$/Content/container.html" />
+    <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="Contact Page almost done.&#10;-Todo map/directions.">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/base.css" afterPath="$PROJECT_DIR$/CSS/base.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/effects.css" afterPath="$PROJECT_DIR$/CSS/effects.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/forms.html" afterPath="$PROJECT_DIR$/Content/forms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/gallery.htm" afterPath="$PROJECT_DIR$/Content/gallery.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/layout.css" afterPath="$PROJECT_DIR$/CSS/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/nav.css" afterPath="$PROJECT_DIR$/CSS/nav.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/offsite.html" afterPath="$PROJECT_DIR$/Content/offsite.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/sell.html" afterPath="$PROJECT_DIR$/Content/sell.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365440436321" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365526799001" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
     <file path="/forms.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363969840548" ignored="false" />
     <file path="/form.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363968720202" ignored="false" />
-    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365476359266" ignored="false" />
+    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365530551426" ignored="false" />
     <file path="/layout.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365525470161" ignored="false" />
     <file path="/img.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365361977886" ignored="false" />
-    <file path="/base.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365363441701" ignored="false" />
+    <file path="/base.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365530744315" ignored="false" />
     <file path="/gallery.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365525711121" ignored="false" />
     <file path="/home.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364243793016" ignored="false" />
     <file path="/a.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364073291214" ignored="false" />
@@ -46,7 +35,7 @@
     <file path="/contact.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365471344697" ignored="false" />
     <file path="/requirements.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364326923148" ignored="false" />
     <file path="/nav.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365475989824" ignored="false" />
-    <file path="/forms.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365525654039" ignored="false" />
+    <file path="/forms.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365530083977" ignored="false" />
     <file path="/buy.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365465534787" ignored="false" />
     <file path="/sell.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365526175242" ignored="false" />
     <file path="/offsite.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365475336245" ignored="false" />
@@ -69,7 +58,7 @@
     <favorites_list name="WebDesign2013Project" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5137751">
+    <splitter split-orientation="horizontal" split-proportion="0.62472075">
       <split-first>
         <leaf>
           <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
@@ -110,10 +99,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="forms.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="forms.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Content/forms.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="27" column="16" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-15.615385">
+                <state line="15" column="85" selection-start="617" selection-end="617" vertical-scroll-proportion="0.39005736">
                   <folding />
                 </state>
               </provider>
@@ -128,10 +117,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="sell.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="sell.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Content/sell.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="83" column="60" selection-start="3650" selection-end="3651" vertical-scroll-proportion="2.6978967">
+                <state line="18" column="58" selection-start="587" selection-end="587" vertical-scroll-proportion="-11.769231">
                   <folding />
                 </state>
               </provider>
@@ -162,7 +151,7 @@
           <file leaf-file-name="ksi.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="43" column="56" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0">
+                <state line="21" column="16" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
                   <folding>
                     <marker date="1364240225349" expanded="true" signature="1155:1166" placeholder="..." />
                   </folding>
@@ -170,19 +159,19 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CSS/layout.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="223" column="25" selection-start="3168" selection-end="3168" vertical-scroll-proportion="0.84875447">
+                <state line="216" column="30" selection-start="3092" selection-end="3092" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="effects.css" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="effects.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CSS/effects.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="92" column="27" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.0">
+                <state line="184" column="37" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.5974499">
                   <folding />
                 </state>
               </provider>
@@ -234,21 +223,21 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/CSS/img.css" />
-        <option value="$PROJECT_DIR$/CSS/base.css" />
         <option value="$PROJECT_DIR$/CSS/nav.css" />
-        <option value="$PROJECT_DIR$/CSS/effects.css" />
-        <option value="$PROJECT_DIR$/CSS/layout.css" />
         <option value="$PROJECT_DIR$/index.htm" />
         <option value="$PROJECT_DIR$/Content/about.html" />
         <option value="$PROJECT_DIR$/Content/home.html" />
         <option value="$PROJECT_DIR$/Content/gallery.htm" />
         <option value="$PROJECT_DIR$/Content/contact.html" />
-        <option value="$PROJECT_DIR$/Content/forms.html" />
         <option value="$PROJECT_DIR$/Content/buy.html" />
         <option value="$PROJECT_DIR$/Content/offsite.html" />
         <option value="$PROJECT_DIR$/Content/container.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Content/sell.html" />
+        <option value="$PROJECT_DIR$/CSS/layout.css" />
+        <option value="$PROJECT_DIR$/Content/forms.html" />
+        <option value="$PROJECT_DIR$/CSS/base.css" />
+        <option value="$PROJECT_DIR$/CSS/effects.css" />
       </list>
     </option>
   </component>
@@ -461,7 +450,11 @@
       <created>1365440439699</created>
       <updated>1365440439699</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Contact Page almost done.&#10;-Todo map/directions.">
+      <created>1365526784847</created>
+      <updated>1365526784847</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -582,13 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Content/requirements.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="258" column="13" selection-start="16363" selection-end="16363" vertical-scroll-proportion="-86.19231">
@@ -599,20 +585,6 @@
     <entry file="file://$PROJECT_DIR$/CSS/nav.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="22" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/effects.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="27" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="223" column="25" selection-start="3168" selection-end="3168" vertical-scroll-proportion="0.84875447">
           <folding />
         </state>
       </provider>
@@ -637,13 +609,6 @@
           <folding>
             <element signature="n#style#0;n#a#0;n#small#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Content/forms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="16" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-15.615385">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -677,7 +642,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/sell.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="60" selection-start="3650" selection-end="3651" vertical-scroll-proportion="2.6978967">
+        <state line="18" column="58" selection-start="587" selection-end="587" vertical-scroll-proportion="-11.769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="16" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1364240225349" expanded="true" signature="1155:1166" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="30" selection-start="3092" selection-end="3092" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="85" selection-start="617" selection-end="617" vertical-scroll-proportion="0.39005736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="33" selection-start="146" selection-end="146" vertical-scroll-proportion="0.21174377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/effects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="184" column="37" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.5974499">
           <folding />
         </state>
       </provider>
