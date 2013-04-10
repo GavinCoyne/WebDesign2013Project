@@ -198,9 +198,10 @@ textarea{
     border:1px solid lightgray;
 }
 
-input:required {
+input:required:invalid {
     border-color: #800000;
     border-width: 3px;
+    color:#FF0000;
 }
 
 input:not(#submit):not(#reset):valid {
