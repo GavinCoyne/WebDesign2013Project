@@ -46,7 +46,8 @@ function validateFormSubmit()
 		return false;
 	}
 
-    alert("Success!")
+    alert("Success!");
+
 }
 
 function clearImage(){

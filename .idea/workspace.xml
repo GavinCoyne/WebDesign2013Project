@@ -2,21 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/forms.html" afterPath="$PROJECT_DIR$/Content/forms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/effects.css" afterPath="$PROJECT_DIR$/CSS/effects.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/ksi.js" afterPath="$PROJECT_DIR$/scripts/ksi.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/requirements.html" afterPath="$PROJECT_DIR$/Content/requirements.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365563329087" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365564180563" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
     <file path="/forms.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363969840548" ignored="false" />
     <file path="/form.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363968720202" ignored="false" />
-    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365562699478" ignored="false" />
+    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365564398850" ignored="false" />
     <file path="/layout.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365532364786" ignored="false" />
     <file path="/img.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365361977886" ignored="false" />
     <file path="/base.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365539958156" ignored="false" />
@@ -151,12 +149,12 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="ksi.js" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="ksi.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="35" column="28" selection-start="736" selection-end="736" vertical-scroll-proportion="0.4335155">
+                <state line="48" column="22" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0">
                   <folding>
-                    <marker date="1365564170774" expanded="true" signature="1357:1368" placeholder="..." />
+                    <marker date="1365564335665" expanded="true" signature="1359:1370" placeholder="..." />
                   </folding>
                 </state>
               </provider>
@@ -171,10 +169,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="effects.css" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="effects.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CSS/effects.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="203" column="18" selection-start="3792" selection-end="3792" vertical-scroll-proportion="0.0">
+                <state line="200" column="28" selection-start="3727" selection-end="3727" vertical-scroll-proportion="0.48576513">
                   <folding />
                 </state>
               </provider>
@@ -250,11 +248,11 @@
         <option value="$PROJECT_DIR$/Content/offsite.html" />
         <option value="$PROJECT_DIR$/Content/container.html" />
         <option value="$PROJECT_DIR$/CSS/base.css" />
-        <option value="$PROJECT_DIR$/CSS/effects.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Content/requirements.html" />
         <option value="$PROJECT_DIR$/Content/forms.html" />
         <option value="$PROJECT_DIR$/scripts/ksi.js" />
+        <option value="$PROJECT_DIR$/CSS/effects.css" />
       </list>
     </option>
   </component>
@@ -503,7 +501,11 @@
       <created>1365563331552</created>
       <updated>1365563331552</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Workin on tha decomutation">
+      <created>1365564184484</created>
+      <updated>1365564184484</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -693,13 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/effects.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="203" column="18" selection-start="3792" selection-end="3792" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Content/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="5" selection-start="35" selection-end="59" vertical-scroll-proportion="34.0">
@@ -735,10 +730,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="28" selection-start="736" selection-end="736" vertical-scroll-proportion="0.4335155">
+        <state line="48" column="22" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1365564170774" expanded="true" signature="1357:1368" placeholder="..." />
+            <marker date="1365564335665" expanded="true" signature="1359:1370" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/effects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="200" column="28" selection-start="3727" selection-end="3727" vertical-scroll-proportion="0.48576513">
+          <folding />
         </state>
       </provider>
     </entry>

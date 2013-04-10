@@ -198,7 +198,7 @@ textarea{
     border:1px solid lightgray;
 }
 
-input:required:invalid {
+input:required:invalid:focus {
     border-color: #800000;
     border-width: 3px;
     color:#FF0000;
