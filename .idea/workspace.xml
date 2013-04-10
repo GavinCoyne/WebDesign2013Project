@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/effects.css" afterPath="$PROJECT_DIR$/CSS/effects.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/ksi.js" afterPath="$PROJECT_DIR$/scripts/ksi.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365564417140" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365564501323" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
@@ -25,7 +25,7 @@
     <file path="/scroll.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364240340289" ignored="false" />
     <file path="/template.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364226586770" ignored="false" />
     <file path="/Header.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364225247646" ignored="false" />
-    <file path="/ksi.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365563071487" ignored="false" />
+    <file path="/ksi.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365564591151" ignored="false" />
     <file path="/teset.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364244184045" ignored="false" />
     <file path="/home.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364244755054" ignored="false" />
     <file path="/about.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365534335601" ignored="false" />
@@ -148,12 +148,12 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="ksi.js" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="ksi.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="48" column="22" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0">
+                <state line="40" column="8" selection-start="836" selection-end="836" vertical-scroll-proportion="0.5883424">
                   <folding>
-                    <marker date="1365564335665" expanded="true" signature="1359:1370" placeholder="..." />
+                    <marker date="1365564600826" expanded="true" signature="1185:1196" placeholder="..." />
                   </folding>
                 </state>
               </provider>
@@ -168,10 +168,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="effects.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="effects.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CSS/effects.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="207" column="10" selection-start="3835" selection-end="3835" vertical-scroll-proportion="0.6975089">
+                <state line="207" column="10" selection-start="3835" selection-end="3835" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -250,8 +250,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Content/requirements.html" />
         <option value="$PROJECT_DIR$/Content/forms.html" />
-        <option value="$PROJECT_DIR$/scripts/ksi.js" />
         <option value="$PROJECT_DIR$/CSS/effects.css" />
+        <option value="$PROJECT_DIR$/scripts/ksi.js" />
       </list>
     </option>
   </component>
@@ -508,7 +508,11 @@
       <created>1365564421644</created>
       <updated>1365564421644</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Workin on tha decomutation">
+      <created>1365564505123</created>
+      <updated>1365564505123</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -731,19 +735,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
+    <entry file="file://$PROJECT_DIR$/CSS/effects.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="22" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1365564335665" expanded="true" signature="1359:1370" placeholder="..." />
-          </folding>
+        <state line="207" column="10" selection-start="3835" selection-end="3835" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/effects.css">
+    <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="207" column="10" selection-start="3835" selection-end="3835" vertical-scroll-proportion="0.6975089">
-          <folding />
+        <state line="40" column="8" selection-start="836" selection-end="836" vertical-scroll-proportion="0.5883424">
+          <folding>
+            <marker date="1365564600826" expanded="true" signature="1185:1196" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -37,16 +37,9 @@ function validateFormSubmit()
     {
         alert("Last name must be filled out");
         return false;
+    }else{
+        alert("Success!");
     }
-	//email pattern!!!!
-	var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
-	if (!(emailPattern.test(email)))
-	{
-		alert("Please Enter a valid email.");
-		return false;
-	}
-
-    alert("Success!");
 
 }
 
