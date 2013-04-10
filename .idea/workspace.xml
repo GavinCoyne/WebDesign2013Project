@@ -2,32 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/about.html" afterPath="$PROJECT_DIR$/Content/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/buy.html" afterPath="$PROJECT_DIR$/Content/buy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/contact.html" afterPath="$PROJECT_DIR$/Content/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/container.html" afterPath="$PROJECT_DIR$/Content/container.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/effects.css" afterPath="$PROJECT_DIR$/CSS/effects.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/forms.html" afterPath="$PROJECT_DIR$/Content/forms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/gallery.htm" afterPath="$PROJECT_DIR$/Content/gallery.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/layout.css" afterPath="$PROJECT_DIR$/CSS/layout.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/offsite.html" afterPath="$PROJECT_DIR$/Content/offsite.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/requirements.html" afterPath="$PROJECT_DIR$/Content/requirements.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/sell.html" afterPath="$PROJECT_DIR$/Content/sell.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365531904652" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365537970574" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
     <file path="/forms.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363969840548" ignored="false" />
     <file path="/form.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363968720202" ignored="false" />
-    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365531640395" ignored="false" />
+    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365540702276" ignored="false" />
     <file path="/layout.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365532364786" ignored="false" />
     <file path="/img.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365361977886" ignored="false" />
-    <file path="/base.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365530744315" ignored="false" />
+    <file path="/base.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365539958156" ignored="false" />
     <file path="/gallery.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365533825091" ignored="false" />
     <file path="/home.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364243793016" ignored="false" />
     <file path="/a.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364073291214" ignored="false" />
@@ -42,9 +33,9 @@
     <file path="/about.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365534335601" ignored="false" />
     <file path="/container.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365535208482" ignored="false" />
     <file path="/contact.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365471344697" ignored="false" />
-    <file path="/requirements.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365536985018" ignored="false" />
+    <file path="/requirements.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365538400624" ignored="false" />
     <file path="/nav.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365475989824" ignored="false" />
-    <file path="/forms.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365530083977" ignored="false" />
+    <file path="/forms.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365542252135" ignored="false" />
     <file path="/buy.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365534865989" ignored="false" />
     <file path="/sell.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365526175242" ignored="false" />
     <file path="/offsite.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365534970566" ignored="false" />
@@ -79,10 +70,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="34" column="59" selection-start="1309" selection-end="1309" vertical-scroll-proportion="0.42256215">
+                <state line="42" column="54" selection-start="1953" selection-end="1953" vertical-scroll-proportion="-13.730769">
                   <folding />
                 </state>
               </provider>
@@ -110,10 +101,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="forms.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="forms.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Content/forms.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="28" selection-start="59" selection-end="59" vertical-scroll-proportion="-2.6153846">
+                <state line="85" column="81" selection-start="3832" selection-end="3832" vertical-scroll-proportion="2.7629063">
                   <folding />
                 </state>
               </provider>
@@ -179,10 +170,19 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="effects.css" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="effects.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CSS/effects.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="79" column="21" selection-start="1614" selection-end="1614" vertical-scroll-proportion="0.6014898">
+                <state line="203" column="1" selection-start="3767" selection-end="3767" vertical-scroll-proportion="0.57651246">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="base.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/CSS/base.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="20" column="21" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -200,7 +200,7 @@
           <file leaf-file-name="requirements.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Content/requirements.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="272" column="49" selection-start="17560" selection-end="17560" vertical-scroll-proportion="-5.076923">
+                <state line="247" column="93" selection-start="16206" selection-end="16206" vertical-scroll-proportion="-12.269231">
                   <folding>
                     <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
                     <element signature="n#style#0;n#blockquote#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -241,19 +241,19 @@
         <option value="$PROJECT_DIR$/CSS/nav.css" />
         <option value="$PROJECT_DIR$/index.htm" />
         <option value="$PROJECT_DIR$/Content/home.html" />
-        <option value="$PROJECT_DIR$/CSS/base.css" />
         <option value="$PROJECT_DIR$/CSS/layout.css" />
         <option value="$PROJECT_DIR$/Content/gallery.htm" />
         <option value="$PROJECT_DIR$/Content/about.html" />
         <option value="$PROJECT_DIR$/Content/contact.html" />
-        <option value="$PROJECT_DIR$/Content/forms.html" />
         <option value="$PROJECT_DIR$/Content/buy.html" />
         <option value="$PROJECT_DIR$/Content/sell.html" />
         <option value="$PROJECT_DIR$/Content/offsite.html" />
         <option value="$PROJECT_DIR$/Content/container.html" />
-        <option value="$PROJECT_DIR$/Content/requirements.html" />
-        <option value="$PROJECT_DIR$/CSS/effects.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Content/requirements.html" />
+        <option value="$PROJECT_DIR$/CSS/base.css" />
+        <option value="$PROJECT_DIR$/Content/forms.html" />
+        <option value="$PROJECT_DIR$/CSS/effects.css" />
       </list>
     </option>
   </component>
@@ -478,7 +478,11 @@
       <created>1365531907478</created>
       <updated>1365531907478</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Workin on tha decomutation">
+      <created>1365537975573</created>
+      <updated>1365537975573</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -566,7 +570,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="GEttin' th're" />
+    <option name="LAST_COMMIT_MESSAGE" value="Workin on tha decomutation" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -588,6 +592,7 @@
     <MESSAGE value="Work on the form&#10;" />
     <MESSAGE value="Contact Page almost done.&#10;-Todo map/directions." />
     <MESSAGE value="GEttin' th're" />
+    <MESSAGE value="Workin on tha decomutation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -616,13 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="33" selection-start="146" selection-end="146" vertical-scroll-proportion="0.21174377">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Content/gallery.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="66" column="49" selection-start="2771" selection-end="2771" vertical-scroll-proportion="-8.5">
@@ -648,13 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Content/forms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="28" selection-start="59" selection-end="59" vertical-scroll-proportion="-2.6153846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Content/buy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="28" selection-start="59" selection-end="59" vertical-scroll-proportion="-2.6153846">
@@ -676,15 +667,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Content/container.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="46" selection-start="617" selection-end="617" vertical-scroll-proportion="-15.038462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Content/requirements.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="272" column="49" selection-start="17560" selection-end="17560" vertical-scroll-proportion="-5.076923">
+        <state line="247" column="93" selection-start="16206" selection-end="16206" vertical-scroll-proportion="-12.269231">
           <folding>
             <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#blockquote#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#dd#0;n#dl#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#dt#0;n#dl#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="54" selection-start="1953" selection-end="1953" vertical-scroll-proportion="-13.730769">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -695,23 +700,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="21" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="81" selection-start="3832" selection-end="3832" vertical-scroll-proportion="2.7629063">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/effects.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="21" selection-start="1614" selection-end="1614" vertical-scroll-proportion="0.6014898">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Content/container.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="46" selection-start="617" selection-end="617" vertical-scroll-proportion="-15.038462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="59" selection-start="1309" selection-end="1309" vertical-scroll-proportion="0.42256215">
+        <state line="203" column="1" selection-start="3767" selection-end="3767" vertical-scroll-proportion="0.57651246">
           <folding />
         </state>
       </provider>

@@ -68,7 +68,8 @@
                     <legend name="pInfo">Personal Information:</legend>
                     <label for="FName">First Name:</label>
                     <input name="FName" id="FName" type="text"
-                           required="required" placeholder="First Name"></input>
+                           required="required" placeholder="First Name"
+                            pattern="[a-zA-Z]+"></input>
 
                     <label for="LName">Last Name</label>
                     <input name="LName" id="LName" type="text"
@@ -76,22 +77,55 @@
 
                     <label for="phone">Phone Number: </label>
                     <input name="phone" id="phone" type="tel"
-                           required="required" placeholder="(999)999-9999"/>
+                           required="required" placeholder="999-999-9999"
+                            pattern="\d{3}[\-]\d{3}[\-]\d{4}"/>
+                    <label for="emails" >E-mail:</label>
+                    <input type="email" name="emails" id="emails" placeholder="email@server.com" />
+
+                    <label for="age" ></label>
+                    <input type="range" required="required" min="13" max="115" />
 
                 </fieldset>
 
-                <fieldset class="other">
-                    <input type="time">
-                    <input type="url">
-                    <input type="search">
+                <fieldset class="oInfo">
+                    <legend name="oInfo">Other Information:</legend>
 
-                    <input type="file">
+                    <textarea cols="51" rows="5" id="comments" name="comments" placeholder="comments"></textarea>
+
+                    <label>Radio buttons</label>
+
+                    <label for = "sizeSmall">small</label>
+                    <input type = "radio"
+                           name = "radSize"
+                           id = "sizeSmall"
+                           value = "small"
+                           checked = "checked" />
 
 
+                    <label for = "sizeMed">medium</label>
+                    <input type = "radio"
+                           name = "radSize"
+                           id = "sizeMed"
+                           value = "medium" />
+
+
+                    <label for = "sizeLarge">large</label>
+                    <input type = "radio"
+                           name = "radSize"
+                           id = "sizeLarge"
+                           value = "large" />
+
+
+                    <label for = "Nothing">Nothing</label>
+                    <input type = "radio"
+                           name = "other"
+                           id = "Nothing"
+                           value = "Nothing" />
+
+
+                    <input name="submit" id="submit" type="submit">
+                    <input id="reset" type="reset">
                 </fieldset>
-                <input name="submit" id="submit" type="submit">
-                <input type="reset">
-
             </form>
 
 
