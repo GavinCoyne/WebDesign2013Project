@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
+    <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="Workin on tha decomutation">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/forms.html" afterPath="$PROJECT_DIR$/Content/forms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/ksi.js" afterPath="$PROJECT_DIR$/scripts/ksi.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365562708222" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365563055248" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
@@ -25,7 +26,7 @@
     <file path="/scroll.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364240340289" ignored="false" />
     <file path="/template.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364226586770" ignored="false" />
     <file path="/Header.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364225247646" ignored="false" />
-    <file path="/ksi.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364403923592" ignored="false" />
+    <file path="/ksi.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365563071487" ignored="false" />
     <file path="/teset.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364244184045" ignored="false" />
     <file path="/home.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364244755054" ignored="false" />
     <file path="/about.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365534335601" ignored="false" />
@@ -33,7 +34,7 @@
     <file path="/contact.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365471344697" ignored="false" />
     <file path="/requirements.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365538400624" ignored="false" />
     <file path="/nav.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365475989824" ignored="false" />
-    <file path="/forms.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365562765874" ignored="false" />
+    <file path="/forms.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365562931111" ignored="false" />
     <file path="/buy.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365534865989" ignored="false" />
     <file path="/sell.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365526175242" ignored="false" />
     <file path="/offsite.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365534970566" ignored="false" />
@@ -99,10 +100,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="forms.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="forms.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Content/forms.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="84" column="46" selection-start="3773" selection-end="3773" vertical-scroll-proportion="0.7476099">
+                <state line="152" column="92" selection-start="5878" selection-end="5878" vertical-scroll-proportion="0.80497134">
                   <folding />
                 </state>
               </provider>
@@ -148,12 +149,12 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="ksi.js" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="ksi.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="21" column="16" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+                <state line="28" column="4" selection-start="551" selection-end="551" vertical-scroll-proportion="0.18579236">
                   <folding>
-                    <marker date="1364240225349" expanded="true" signature="1155:1166" placeholder="..." />
+                    <marker date="1365563118358" expanded="true" signature="1182:1193" placeholder="..." />
                   </folding>
                 </state>
               </provider>
@@ -168,10 +169,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="effects.css" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="effects.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CSS/effects.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="203" column="18" selection-start="3792" selection-end="3792" vertical-scroll-proportion="0.57651246">
+                <state line="203" column="18" selection-start="3792" selection-end="3792" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -236,7 +237,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/CSS/nav.css" />
         <option value="$PROJECT_DIR$/index.htm" />
         <option value="$PROJECT_DIR$/Content/home.html" />
         <option value="$PROJECT_DIR$/CSS/layout.css" />
@@ -252,6 +252,7 @@
         <option value="$PROJECT_DIR$/CSS/base.css" />
         <option value="$PROJECT_DIR$/CSS/effects.css" />
         <option value="$PROJECT_DIR$/Content/forms.html" />
+        <option value="$PROJECT_DIR$/scripts/ksi.js" />
       </list>
     </option>
   </component>
@@ -488,7 +489,11 @@
       <created>1365562711440</created>
       <updated>1365562711440</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Workin on tha decomutation">
+      <created>1365562788504</created>
+      <updated>1365562788504</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -618,15 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="16" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1364240225349" expanded="true" signature="1155:1166" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Content/gallery.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="66" column="49" selection-start="2771" selection-end="2771" vertical-scroll-proportion="-8.5">
@@ -715,15 +711,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/effects.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="203" column="18" selection-start="3792" selection-end="3792" vertical-scroll-proportion="0.57651246">
+        <state line="203" column="18" selection-start="3792" selection-end="3792" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/forms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="46" selection-start="3773" selection-end="3773" vertical-scroll-proportion="0.7476099">
+        <state line="152" column="92" selection-start="5878" selection-end="5878" vertical-scroll-proportion="0.80497134">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="4" selection-start="551" selection-end="551" vertical-scroll-proportion="0.18579236">
+          <folding>
+            <marker date="1365563118358" expanded="true" signature="1182:1193" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

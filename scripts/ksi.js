@@ -26,7 +26,8 @@ function validateFormSubmit()
 	var Name=document.forms["validationForm"]["fname"].value;
 	var email=document.forms["validationForm"]["email"].value;
 
-	if (Name==null || Name=="")
+
+    if (Name==null || Name=="")
 	{
 		alert("First name must be filled out");
 		return false;
@@ -38,6 +39,8 @@ function validateFormSubmit()
 		alert("Please Enter a valid email.");
 		return false;
 	}
+
+    alert("Success!")
 }
 
 function clearImage(){
