@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/gallery.htm" afterPath="$PROJECT_DIR$/Content/gallery.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/ksi.js" afterPath="$PROJECT_DIR$/scripts/ksi.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365565913690" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365608448341" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
@@ -17,7 +18,7 @@
     <file path="/layout.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365532364786" ignored="false" />
     <file path="/img.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365361977886" ignored="false" />
     <file path="/base.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365539958156" ignored="false" />
-    <file path="/gallery.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365608444862" ignored="false" />
+    <file path="/gallery.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365608712099" ignored="false" />
     <file path="/home.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364243793016" ignored="false" />
     <file path="/a.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364073291214" ignored="false" />
     <file path="/a.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364007100485" ignored="false" />
@@ -25,7 +26,7 @@
     <file path="/scroll.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364240340289" ignored="false" />
     <file path="/template.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364226586770" ignored="false" />
     <file path="/Header.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364225247646" ignored="false" />
-    <file path="/ksi.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365564591151" ignored="false" />
+    <file path="/ksi.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365608947882" ignored="false" />
     <file path="/teset.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364244184045" ignored="false" />
     <file path="/home.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1364244755054" ignored="false" />
     <file path="/about.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365534335601" ignored="false" />
@@ -56,7 +57,7 @@
     <favorites_list name="WebDesign2013Project" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4512286">
+    <splitter split-orientation="horizontal" split-proportion="0.4988831">
       <split-first>
         <leaf>
           <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
@@ -77,10 +78,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="gallery.htm" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="gallery.htm" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Content/gallery.htm">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="72" column="39" selection-start="3057" selection-end="3057" vertical-scroll-proportion="0.28489482">
+                <state line="98" column="84" selection-start="4557" selection-end="4557" vertical-scroll-proportion="0.73996174">
                   <folding>
                     <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
                   </folding>
@@ -148,12 +149,12 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="ksi.js" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="ksi.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="27" column="54" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
+                <state line="42" column="4" selection-start="826" selection-end="826" vertical-scroll-proportion="0.7431694">
                   <folding>
-                    <marker date="1365564729944" expanded="true" signature="1208:1219" placeholder="..." />
+                    <marker date="1365609000133" expanded="true" signature="1170:1181" placeholder="..." />
                   </folding>
                 </state>
               </provider>
@@ -195,10 +196,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="requirements.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="requirements.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Content/requirements.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="266" column="71" selection-start="17676" selection-end="17676" vertical-scroll-proportion="0.2309237">
+                <state line="266" column="71" selection-start="17676" selection-end="17676" vertical-scroll-proportion="-2.254902">
                   <folding>
                     <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
                     <element signature="n#style#0;n#blockquote#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -248,10 +249,10 @@
         <option value="$PROJECT_DIR$/CSS/base.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CSS/effects.css" />
-        <option value="$PROJECT_DIR$/scripts/ksi.js" />
         <option value="$PROJECT_DIR$/Content/forms.html" />
         <option value="$PROJECT_DIR$/Content/requirements.html" />
         <option value="$PROJECT_DIR$/Content/gallery.htm" />
+        <option value="$PROJECT_DIR$/scripts/ksi.js" />
       </list>
     </option>
   </component>
@@ -524,7 +525,11 @@
       <created>1365565916884</created>
       <updated>1365565916884</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Workin on tha decomutation">
+      <created>1365608451688</created>
+      <updated>1365608451688</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -726,15 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="54" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1365564729944" expanded="true" signature="1208:1219" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Content/forms.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="128" column="80" selection-start="5425" selection-end="5425" vertical-scroll-proportion="-7.0384617">
@@ -744,7 +740,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/requirements.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="266" column="71" selection-start="17676" selection-end="17676" vertical-scroll-proportion="0.2309237">
+        <state line="266" column="71" selection-start="17676" selection-end="17676" vertical-scroll-proportion="-2.254902">
           <folding>
             <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#blockquote#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -756,9 +752,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/gallery.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="39" selection-start="3057" selection-end="3057" vertical-scroll-proportion="0.28489482">
+        <state line="98" column="84" selection-start="4557" selection-end="4557" vertical-scroll-proportion="0.73996174">
           <folding>
             <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="4" selection-start="826" selection-end="826" vertical-scroll-proportion="0.7431694">
+          <folding>
+            <marker date="1365609000133" expanded="true" signature="1170:1181" placeholder="..." />
           </folding>
         </state>
       </provider>

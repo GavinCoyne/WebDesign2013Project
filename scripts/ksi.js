@@ -25,7 +25,8 @@ function validateFormSubmit()
     alert("Success!");
 	var Name=document.forms["validationForm"]["FName"].value;
 	var Name2=document.forms["validationForm"]["LName"].value;
-	var email=document.forms["validationForm"]["emails"].value;
+
+    var arrayName = new array[20];
 
 
     if (Name==null || Name=="")
@@ -37,9 +38,10 @@ function validateFormSubmit()
     {
         alert("Last name must be filled out");
         return false;
-    }else{
-        alert("Success!");
     }
+
+    alert("Success!");
+
 
 }
 
