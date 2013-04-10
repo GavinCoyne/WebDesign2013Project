@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="Workin on tha decomutation">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/forms.html" afterPath="$PROJECT_DIR$/Content/forms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/ksi.js" afterPath="$PROJECT_DIR$/scripts/ksi.js" />
+    <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/requirements.html" afterPath="$PROJECT_DIR$/Content/requirements.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365563055248" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365563122689" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
@@ -32,7 +31,7 @@
     <file path="/about.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365534335601" ignored="false" />
     <file path="/container.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365535208482" ignored="false" />
     <file path="/contact.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365471344697" ignored="false" />
-    <file path="/requirements.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365538400624" ignored="false" />
+    <file path="/requirements.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365563323127" ignored="false" />
     <file path="/nav.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365475989824" ignored="false" />
     <file path="/forms.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365562931111" ignored="false" />
     <file path="/buy.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365534865989" ignored="false" />
@@ -57,7 +56,7 @@
     <favorites_list name="WebDesign2013Project" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4988831">
+    <splitter split-orientation="horizontal" split-proportion="0.355175">
       <split-first>
         <leaf>
           <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
@@ -149,10 +148,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="ksi.js" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="ksi.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="28" column="4" selection-start="551" selection-end="551" vertical-scroll-proportion="0.18579236">
+                <state line="28" column="4" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
                   <folding>
                     <marker date="1365563118358" expanded="true" signature="1182:1193" placeholder="..." />
                   </folding>
@@ -196,10 +195,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="requirements.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="requirements.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Content/requirements.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="247" column="93" selection-start="16206" selection-end="16206" vertical-scroll-proportion="-12.269231">
+                <state line="256" column="47" selection-start="16780" selection-end="16780" vertical-scroll-proportion="0.41491395">
                   <folding>
                     <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
                     <element signature="n#style#0;n#blockquote#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -248,11 +247,11 @@
         <option value="$PROJECT_DIR$/Content/offsite.html" />
         <option value="$PROJECT_DIR$/Content/container.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/Content/requirements.html" />
         <option value="$PROJECT_DIR$/CSS/base.css" />
         <option value="$PROJECT_DIR$/CSS/effects.css" />
         <option value="$PROJECT_DIR$/Content/forms.html" />
         <option value="$PROJECT_DIR$/scripts/ksi.js" />
+        <option value="$PROJECT_DIR$/Content/requirements.html" />
       </list>
     </option>
   </component>
@@ -493,7 +492,11 @@
       <created>1365562788504</created>
       <updated>1365562788504</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Workin on tha decomutation">
+      <created>1365563125533</created>
+      <updated>1365563125533</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -676,18 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Content/requirements.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="247" column="93" selection-start="16206" selection-end="16206" vertical-scroll-proportion="-12.269231">
-          <folding>
-            <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="n#style#0;n#blockquote#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#dd#0;n#dl#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#dt#0;n#dl#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="54" selection-start="1953" selection-end="1953" vertical-scroll-proportion="-13.730769">
@@ -725,9 +716,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="4" selection-start="551" selection-end="551" vertical-scroll-proportion="0.18579236">
+        <state line="28" column="4" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1365563118358" expanded="true" signature="1182:1193" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/requirements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="256" column="47" selection-start="16780" selection-end="16780" vertical-scroll-proportion="0.41491395">
+          <folding>
+            <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#blockquote#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#dd#0;n#dl#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#dt#0;n#dl#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
