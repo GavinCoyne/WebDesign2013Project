@@ -22,10 +22,10 @@ return i;
 
 function validateFormSubmit()
 {
-
+    alert("Success!");
 	var Name=document.forms["validationForm"]["FName"].value;
 	var Name2=document.forms["validationForm"]["LName"].value;
-	var email=document.forms["validationForm"]["email"].value;
+	var email=document.forms["validationForm"]["emails"].value;
 
 
     if (Name==null || Name=="")
