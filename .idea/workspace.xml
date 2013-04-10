@@ -3,18 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/effects.css" afterPath="$PROJECT_DIR$/CSS/effects.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/ksi.js" afterPath="$PROJECT_DIR$/scripts/ksi.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365564180563" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365564417140" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
     <file path="/forms.htm" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363969840548" ignored="false" />
     <file path="/form.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363968720202" ignored="false" />
-    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365564398850" ignored="false" />
+    <file path="/effects.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365564495532" ignored="false" />
     <file path="/layout.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365532364786" ignored="false" />
     <file path="/img.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365361977886" ignored="false" />
     <file path="/base.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365539958156" ignored="false" />
@@ -172,7 +171,7 @@
           <file leaf-file-name="effects.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CSS/effects.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="200" column="28" selection-start="3727" selection-end="3727" vertical-scroll-proportion="0.48576513">
+                <state line="207" column="10" selection-start="3835" selection-end="3835" vertical-scroll-proportion="0.6975089">
                   <folding />
                 </state>
               </provider>
@@ -505,7 +504,11 @@
       <created>1365564184484</created>
       <updated>1365564184484</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Workin on tha decomutation">
+      <created>1365564421644</created>
+      <updated>1365564421644</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -739,7 +742,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/effects.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="200" column="28" selection-start="3727" selection-end="3727" vertical-scroll-proportion="0.48576513">
+        <state line="207" column="10" selection-start="3835" selection-end="3835" vertical-scroll-proportion="0.6975089">
           <folding />
         </state>
       </provider>
