@@ -23,7 +23,8 @@ return i;
 function validateFormSubmit()
 {
 
-	var Name=document.forms["validationForm"]["fname"].value;
+	var Name=document.forms["validationForm"]["FName"].value;
+	var Name2=document.forms["validationForm"]["LName"].value;
 	var email=document.forms["validationForm"]["email"].value;
 
 
@@ -32,6 +33,11 @@ function validateFormSubmit()
 		alert("First name must be filled out");
 		return false;
 	}
+    if (Name2==null || Name2=="")
+    {
+        alert("Last name must be filled out");
+        return false;
+    }
 	//email pattern!!!!
 	var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
 	if (!(emailPattern.test(email)))

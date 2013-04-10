@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c303009-8e6e-4cee-bbe2-c8111ab77294" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/forms.html" afterPath="$PROJECT_DIR$/Content/forms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/ksi.js" afterPath="$PROJECT_DIR$/scripts/ksi.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/requirements.html" afterPath="$PROJECT_DIR$/Content/requirements.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebDesign2013Project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365563122689" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365563329087" ignored="false" />
     <file path="/app.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363906030403" ignored="false" />
     <file path="/todo.js" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363979024581" ignored="false" />
     <file path="/todo.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1363902340483" ignored="false" />
@@ -33,11 +36,11 @@
     <file path="/contact.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365471344697" ignored="false" />
     <file path="/requirements.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365563323127" ignored="false" />
     <file path="/nav.css" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365475989824" ignored="false" />
-    <file path="/forms.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365562931111" ignored="false" />
+    <file path="/forms.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365564124056" ignored="false" />
     <file path="/buy.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365534865989" ignored="false" />
     <file path="/sell.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365526175242" ignored="false" />
     <file path="/offsite.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365534970566" ignored="false" />
-    <file path="/index.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365537869201" ignored="false" />
+    <file path="/index.html" changelist="7c303009-8e6e-4cee-bbe2-c8111ab77294" time="1365563650127" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +59,13 @@
     <favorites_list name="WebDesign2013Project" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.355175">
+    <splitter split-orientation="horizontal" split-proportion="0.4512286">
       <split-first>
         <leaf>
           <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Content/about.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="5" selection-start="35" selection-end="59" vertical-scroll-proportion="-1.9615384">
+                <state line="3" column="5" selection-start="35" selection-end="59" vertical-scroll-proportion="34.0">
                   <folding />
                 </state>
               </provider>
@@ -71,7 +74,7 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="42" column="54" selection-start="1953" selection-end="1953" vertical-scroll-proportion="-13.730769">
+                <state line="71" column="56" selection-start="2971" selection-end="2971" vertical-scroll-proportion="-14.884615">
                   <folding />
                 </state>
               </provider>
@@ -102,7 +105,7 @@
           <file leaf-file-name="forms.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Content/forms.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="152" column="92" selection-start="5878" selection-end="5878" vertical-scroll-proportion="0.80497134">
+                <state line="64" column="83" selection-start="2763" selection-end="2763" vertical-scroll-proportion="0.25239006">
                   <folding />
                 </state>
               </provider>
@@ -148,12 +151,12 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="ksi.js" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="ksi.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="28" column="4" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
+                <state line="35" column="28" selection-start="736" selection-end="736" vertical-scroll-proportion="0.4335155">
                   <folding>
-                    <marker date="1365563118358" expanded="true" signature="1182:1193" placeholder="..." />
+                    <marker date="1365564170774" expanded="true" signature="1357:1368" placeholder="..." />
                   </folding>
                 </state>
               </provider>
@@ -195,10 +198,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="requirements.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="requirements.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Content/requirements.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="256" column="47" selection-start="16780" selection-end="16780" vertical-scroll-proportion="0.41491395">
+                <state line="191" column="133" selection-start="11239" selection-end="11239" vertical-scroll-proportion="-10.307693">
                   <folding>
                     <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
                     <element signature="n#style#0;n#blockquote#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -246,12 +249,12 @@
         <option value="$PROJECT_DIR$/Content/sell.html" />
         <option value="$PROJECT_DIR$/Content/offsite.html" />
         <option value="$PROJECT_DIR$/Content/container.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CSS/base.css" />
         <option value="$PROJECT_DIR$/CSS/effects.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Content/requirements.html" />
         <option value="$PROJECT_DIR$/Content/forms.html" />
         <option value="$PROJECT_DIR$/scripts/ksi.js" />
-        <option value="$PROJECT_DIR$/Content/requirements.html" />
       </list>
     </option>
   </component>
@@ -496,7 +499,11 @@
       <created>1365563125533</created>
       <updated>1365563125533</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Workin on tha decomutation">
+      <created>1365563331552</created>
+      <updated>1365563331552</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -635,13 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Content/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="5" selection-start="35" selection-end="59" vertical-scroll-proportion="-1.9615384">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Content/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="28" selection-start="59" selection-end="59" vertical-scroll-proportion="-2.6153846">
@@ -679,13 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="54" selection-start="1953" selection-end="1953" vertical-scroll-proportion="-13.730769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/layout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="151" column="40" selection-start="2101" selection-end="2101" vertical-scroll-proportion="0.0">
@@ -707,30 +700,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Content/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="5" selection-start="35" selection-end="59" vertical-scroll-proportion="34.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="56" selection-start="2971" selection-end="2971" vertical-scroll-proportion="-14.884615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/requirements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="133" selection-start="11239" selection-end="11239" vertical-scroll-proportion="-10.307693">
+          <folding>
+            <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#blockquote#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#dd#0;n#dl#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#dt#0;n#dl#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Content/forms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="92" selection-start="5878" selection-end="5878" vertical-scroll-proportion="0.80497134">
+        <state line="64" column="83" selection-start="2763" selection-end="2763" vertical-scroll-proportion="0.25239006">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/ksi.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="4" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
+        <state line="35" column="28" selection-start="736" selection-end="736" vertical-scroll-proportion="0.4335155">
           <folding>
-            <marker date="1365563118358" expanded="true" signature="1182:1193" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Content/requirements.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="256" column="47" selection-start="16780" selection-end="16780" vertical-scroll-proportion="0.41491395">
-          <folding>
-            <element signature="tag#Header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="n#style#0;n#blockquote#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#dd#0;n#dl#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#dt#0;n#dl#0;n#ol#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1365564170774" expanded="true" signature="1357:1368" placeholder="..." />
           </folding>
         </state>
       </provider>
